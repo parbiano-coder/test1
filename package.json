@@ -1,0 +1,13 @@
+{
+  "name": "kr-it-service-news",
+  "version": "1.0.0",
+  "private": true,
+  "description": "국내 주요 IT서비스기업 최근 뉴스 크롤링 사이트",
+  "type": "module",
+  "scripts": {
+    "crawl": "node scripts/crawl.js"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^5.10.1"
+  }
+}

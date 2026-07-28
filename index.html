@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>국내 IT서비스기업 뉴스 모아보기</title>
+<meta name="description" content="삼성SDS, LG CNS, SK C&C, 네이버, 카카오 등 국내 주요 IT서비스기업의 최신 뉴스를 자동으로 모아 보여주는 사이트" />
+<link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <h1>국내 IT서비스기업 뉴스</h1>
+      <p class="subtitle">삼성SDS · LG CNS · SK C&amp;C · 네이버 · 카카오 · NHN · 더존비즈온 · 한글과컴퓨터</p>
+      <p class="updated-at" id="updatedAt">뉴스를 불러오는 중...</p>
+    </div>
+  </header>
+
+  <main class="container">
+    <div class="controls">
+      <input type="search" id="searchInput" placeholder="제목으로 검색..." aria-label="뉴스 제목 검색" />
+      <div class="filters" id="filters" role="group" aria-label="기업별 필터"></div>
+    </div>
+
+    <p class="status-message" id="statusMessage" hidden></p>
+
+    <ul class="article-list" id="articleList"></ul>
+  </main>
+
+  <footer class="site-footer">
+    <p>이 사이트는 Google 뉴스 RSS를 주기적으로 크롤링하여 자동 생성됩니다. 기사 저작권은 각 언론사에 있습니다.</p>
+  </footer>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
