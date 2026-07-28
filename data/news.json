@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T05:02:17.897Z",
+  "updatedAt": "2026-07-28T05:07:13.166Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -132,14 +132,6 @@
       "pubDate": "Tue, 28 Jul 2026 03:37:00 GMT"
     },
     {
-      "company": "네이버",
-      "category": "IT 서비스",
-      "title": "[CEONEWS 뉴스팝콘 102] 엔비디아가 네이버에 1조 5천억을 베팅한 진짜 이유",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtZDZFU21uQ2dkb0x1aERkejZ6dGQzMng0V0w3bVhqbEdlT0hkZW5DTXZIVERUdFd0bEszSnpuYjVPU19XSkg5ZGcybVh5LUNtRE1KTEw1bTV4MTVmOTdJ?oc=5",
-      "source": "CEONEWS",
-      "pubDate": "Tue, 28 Jul 2026 03:36:00 GMT"
-    },
-    {
       "company": "빗썸코리아",
       "category": "디지털 금융",
       "title": "[빗썸] 오원익스체인지(O) 원화 마켓 추가",
@@ -260,6 +252,14 @@
       "pubDate": "Tue, 28 Jul 2026 01:43:22 GMT"
     },
     {
+      "company": "카카오",
+      "category": "IT 서비스",
+      "title": "카카오페이, '사각사각 서포터즈' 출범...청년 100명과 금융 사각지대 해소",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IbFpQU3JFXzVNdVJVT3l4MzhSWElVdjlneHJvWUR4WTVZd1d6R2U2a0JEZlpkczFBSzBDY3IwZzdyN3U4c0QzYkVTdUp2N1k?oc=5",
+      "source": "v.daum.net",
+      "pubDate": "Tue, 28 Jul 2026 01:40:12 GMT"
+    },
+    {
       "company": "카카오페이",
       "category": "디지털 금융",
       "title": "카카오페이, '사각사각 서포터즈' 출범...청년 100명과 금융 사각지대 해소",
@@ -298,14 +298,6 @@
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rSVRFOUFUVEh4WXlLUHJDRTNvQzB3VzF2aHhFbXhvVHZ0b1ZQZnBiQkphbWFSaDlyR05oMDdKXzRWOTd3V3Z2ZGx1dktvZVU1am9EcXpMQ2hxc242dHhnZENn?oc=5",
       "source": "디지털데일리",
       "pubDate": "Tue, 28 Jul 2026 01:17:06 GMT"
-    },
-    {
-      "company": "KT",
-      "category": "IT 서비스",
-      "title": "KT, ‘K-뉴딜 아카데미’ 1기 교육 시작… 취업·자립 지원",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XeUNFNWYyVnZRamYzb0pLVGxTbXZNRWlTNUhpeXZkZW9pVUxyeHN0YU1YZjFUUmZQX2lqaC1yUVZkQzF6WlJsTFBzVmUxWGpDaHVQTll2TFEwbVNnZTJnOUxlYkI?oc=5",
-      "source": "디지털데일리",
-      "pubDate": "Tue, 28 Jul 2026 01:16:00 GMT"
     },
     {
       "company": "카카오",
@@ -402,14 +394,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvWFJwZ196dnJUNVpuMlc4ZXgyZGt3OG9hSlQzeEgwUGpTVHZVbENjWFRPRzd6THNnOGllbFBmdElpSmZsS3JyU2tyQ3k3eUNsX1FkVXFGN05yZw?oc=5",
       "source": "브릿지경제",
       "pubDate": "Tue, 28 Jul 2026 00:27:00 GMT"
-    },
-    {
-      "company": "카카오",
-      "category": "IT 서비스",
-      "title": "카카오페이, 청년 디지털 금융 리더 사각사각 서포터즈 1기 발대식 개최",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mS0RmdVdjUjg1TkVoZ0d3ZERfVUlmaGU2M3prLVJoVmxhMlgwNXp2bnlVRHJrbHZVeU5SVncydGY4empnbTBlVkduMnJkald4OW15NERNbmdDRnBwS3JBbWROR0hLbnlkQlNVeE1YamMwTDAwcnNiVUxB?oc=5",
-      "source": "로이슈",
-      "pubDate": "Tue, 28 Jul 2026 00:26:08 GMT"
     },
     {
       "company": "카카오페이",
@@ -636,6 +620,22 @@
       "pubDate": "Mon, 27 Jul 2026 11:45:51 GMT"
     },
     {
+      "company": "네이버",
+      "category": "IT 서비스",
+      "title": "엔비디아, 네이버 3대 주주된다…1조4800억 투자, AI 동맹 본격화",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rNjBCNE9JeHJkN0JtSzNzTGE5b0lQX3BDOFZsOXJESDZwS0luV1otQ0Y1QlNrRWdVUzdENXZ4a0lHVURaMldVSHR5R3YyTHNGNkRFbVJKUEhwQ0tESk5abg?oc=5",
+      "source": "한겨레",
+      "pubDate": "Mon, 27 Jul 2026 10:01:00 GMT"
+    },
+    {
+      "company": "코인원",
+      "category": "디지털 금융",
+      "title": "코인원 앱에서 주식 사고 판다… 한투 거래시스템과 연동",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xUEotQ21fblU3Z0cyVGNwM0N6dzR5MnJWRjl6M3NPWFdKYXRxNWVScjNnZFdqLXBldHo2YkdESU1mQ2JrVWhfSUlDajBGZk5GV1lpQW9mR1lFdw?oc=5",
+      "source": "파이낸셜뉴스",
+      "pubDate": "Mon, 27 Jul 2026 09:08:20 GMT"
+    },
+    {
       "company": "컴투스",
       "category": "디지털 금융",
       "title": "[게임 NOW] 넷마블·컴투스·크래프톤",
@@ -732,6 +732,22 @@
       "pubDate": "Mon, 27 Jul 2026 07:33:46 GMT"
     },
     {
+      "company": "KT",
+      "category": "IT 서비스",
+      "title": "[단독] KT, SKT 제치고 해경 위성통신망 사업 3년 연속 수주",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TNElsR0JzdXpncHEwSzJDdlV5Y1Nrcmd0N2txWFk5Tk1QWXZITUp5dGRoNEdUZG5oMlJaWWJYVHBsMFZGbXAtR1l5VE1lakRQTjRGVXFRY21UbWtyNGgxVGVfM3dwcDVkZzFsN1FB?oc=5",
+      "source": "아시아투데이",
+      "pubDate": "Mon, 27 Jul 2026 07:30:00 GMT"
+    },
+    {
+      "company": "코인원",
+      "category": "디지털 금융",
+      "title": "[오늘Who] 한국투자증권 코인원 지분투자 뒤 첫 협업, 김성환 가상자산 고객 확보로 리테일 확장세 탄력 받나",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5TLURZZ2R6QUpFNHBfdlVLSGRHZGlmNmEtQjgxbUxBNE45YzJJUERMd3kyYkgwaXhFYmJjSmo1bklZWUJOanJQWlpoX21NM1BsamJfTE5vV3lKN1JybFgzQ0duOHRZbzhiTU42Vkg0MWhkRlk?oc=5",
+      "source": "비즈니스포스트",
+      "pubDate": "Mon, 27 Jul 2026 07:23:19 GMT"
+    },
+    {
       "company": "빗썸코리아",
       "category": "디지털 금융",
       "title": "하나금융 이어 우리금융도 거래소 지분투자 검토...시선은 빗썸으로",
@@ -812,6 +828,14 @@
       "pubDate": "Mon, 27 Jul 2026 06:43:24 GMT"
     },
     {
+      "company": "코인원",
+      "category": "디지털 금융",
+      "title": "한투증권·코인원 첫 협업 성과…앱 하나로 코인·주식 오간다",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SQjBPODFYWTc2azU2dmtVdzlKRFRmRHllVGR0U0hUYkNHYVpuRjZaN3hhbHM5YlJyamxGaXcxT1JwQkNrbFIySkY2bVUtNDEtU2c?oc=5",
+      "source": "매일경제 마켓",
+      "pubDate": "Mon, 27 Jul 2026 06:33:45 GMT"
+    },
+    {
       "company": "컴투스",
       "category": "디지털 금융",
       "title": "\"물 하나로 싸우고 탐험한다\"…컴투스홀딩스 신작 '페이딩 에코', 글로벌 홀렸다",
@@ -834,6 +858,22 @@
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZUXFCWG5kZTRDTGRWN2tSMEFmVjdZV2dTREF6d0hja2pJZXFITlNJNkM5UXdJZi1jTXIxeTlwN3ViallUalI0WHM3dlRrZw?oc=5",
       "source": "전자신문",
       "pubDate": "Mon, 27 Jul 2026 06:24:01 GMT"
+    },
+    {
+      "company": "코인원",
+      "category": "디지털 금융",
+      "title": "코인원도 '투자 플랫폼' 승부수…한국투자증권 투자 후 첫 협업",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YWTV3VzJENVNmeGFIbHhvcXFwXzBNZGExaGtaLTB0dUEyM3V2MmNKVlVLcUd5d1BMOG44ajBNdlJjRm5BMVhKeE1nWnNoU3VaOTdQMmpNczRKMzFlRmFqVXRlSkUtQQ?oc=5",
+      "source": "뉴스1",
+      "pubDate": "Mon, 27 Jul 2026 06:11:02 GMT"
+    },
+    {
+      "company": "코인원",
+      "category": "디지털 금융",
+      "title": "코인원, 앱에서 ‘한투증권 주식거래’ 연동",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QQjV3QnpYNWxXZ1d4RzNmVkpNT2wxb3RyRDlnRTBKbjlMYTR1cUdNVzNDNm1ydEg2V3Y1ajhKd3VxX3M5TmZua2tIS253SDViMGlCX3BTQnA1Y2xMUUNzUE1jWHFQY0dxNGxRNzh4bElNQVnSAXdBVV95cUxNZGJhNnlnb19rUnQ1UG5xS1h0MDBGNTNiXy1CR2N1dGVJMWtGeHBQVHduNFFGM0pEZ3lFSEktOXZUWGRvM0JnUlF6RjJzaDhRV0h1SEZiRGgwaXV6YmtGN1FtcFNzR2JEZ2EyWmZiZmpjSHRMcDhkRQ?oc=5",
+      "source": "스트레이트뉴스",
+      "pubDate": "Mon, 27 Jul 2026 06:06:53 GMT"
     },
     {
       "company": "빗썸코리아",
@@ -860,14 +900,6 @@
       "pubDate": "Mon, 27 Jul 2026 06:01:18 GMT"
     },
     {
-      "company": "코인원",
-      "category": "디지털 금융",
-      "title": "한투증권, 코인원 앱 내 국내주식 거래서비스 시작…첫 협업",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yblRhYWRjZGlMcVZhVlBfNlN6OFdXYUoxRmlkc2lBcmUzRWI2ZmJ1SWQxVTdkRmh5elcxTFZ0OU1RaXNuS2doZmo4NkFZYlVQRU5ETWdRenhEd3YyT2tIRmlpLWVwamtHc003ZGpuVUhXaUFn0gF0QVVfeXFMTnJuVGFhZGNkaUxxVmFWUF82U3o4V1dhSjFGaWRzaUFyZTNFYjZmYnVJZDFVN2RGaHl6VzFMVnQ5TVFpc25LZ2hmajg2QVliVVBFTkRNZ1F6eER3djJPa0hGaWktZXBqa0dzTTdkam5VSFdpQWc?oc=5",
-      "source": "연합인포맥스",
-      "pubDate": "Mon, 27 Jul 2026 05:54:59 GMT"
-    },
-    {
       "company": "카카오페이",
       "category": "디지털 금융",
       "title": "카카오페이증권, ‘리테일 IB’ 승부수…공모주·스타트업 투자 확대",
@@ -882,6 +914,14 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02NWF1RlYzSUVSbkdKbV9kVXZBcDdta1dKa09iZmhLLTNFYmtTNUdzLW9hOFhSc0czZGgyTnJGOTliUFkxdnc5T0loejd0SmRXSUhUZTJCbWV5Zw?oc=5",
       "source": "한국경제",
       "pubDate": "Mon, 27 Jul 2026 05:41:02 GMT"
+    },
+    {
+      "company": "코인원",
+      "category": "디지털 금융",
+      "title": "\"코인원에서 주식까지\"…한투證, 가상자산 플랫폼 연계 투자 확대",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43NmFsZzZNVWVsdEdZVy1vZDl4UFdyMXhyRjZacFNzaVNxMGFkYnZFVUo3QWFHUE1xUlhqd1NRbnlZLVAtNGlGT0JWb3k5MVh0SE5LOTljM3Q3Yk9HcWk0Yg?oc=5",
+      "source": "메트로신문",
+      "pubDate": "Mon, 27 Jul 2026 05:28:01 GMT"
     },
     {
       "company": "컴투스",
@@ -1036,6 +1076,14 @@
       "pubDate": "Mon, 27 Jul 2026 01:58:01 GMT"
     },
     {
+      "company": "토스",
+      "category": "디지털 금융",
+      "title": "토스, 전국 5000개 마트에 ‘페이스페이’ 도입... POS사 투게더스와 MOU",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uWU9SU0phR2l3T1VHTlQ3UWVUMmVfMzV2UHBfN0xUOVUtbGtjOUlmRXItLWlsZENkYm5CR3I4ODZRX2xhaWg3X3oyOFRuT0dpbTMyQVhBcDhpZWNySUE?oc=5",
+      "source": "보안뉴스",
+      "pubDate": "Mon, 27 Jul 2026 01:54:00 GMT"
+    },
+    {
       "company": "카카오페이",
       "category": "디지털 금융",
       "title": "[더밸류 브리핑] 오늘의 손해보험 소식...현대해상· 카카오페이손해보험",
@@ -1124,14 +1172,6 @@
       "pubDate": "Mon, 27 Jul 2026 01:22:48 GMT"
     },
     {
-      "company": "코인원",
-      "category": "디지털 금융",
-      "title": "한국투자증권, ‘코인원’ 앱 연계 국내주식 거래 서비스 오픈",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tbFRnTkh1V1l0eVBIMExETVJwOUVsTWFaak9zY0NueVFLbzlwTlY3UVRPc1NoUkViUVVRcjBEazJJZ0xlQnlvcHMwcG56R1VWdnBvdG1n?oc=5",
-      "source": "DealSite경제TV",
-      "pubDate": "Mon, 27 Jul 2026 01:10:55 GMT"
-    },
-    {
       "company": "토스",
       "category": "디지털 금융",
       "title": "토스 행운퀴즈 정답 7월 27일",
@@ -1180,36 +1220,12 @@
       "pubDate": "Mon, 27 Jul 2026 00:43:04 GMT"
     },
     {
-      "company": "코인원",
-      "category": "디지털 금융",
-      "title": "[게시판] 코인원, 앱에 한투 WTS 연결 메뉴 도입",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SXzM5V0hLVEV0NkRRWWN3TF9EZXZoekRfaEtTakJkWE9YTEg3YVB5c2dKY3lacktsd1h4R2U5X2hQRy1TdEplVmlWOUo3Tkg2SWlWLWxCNFVmdknSAWBBVV95cUxOc3dQYnRDTklGa0xCQkFyRGxNZm1vdXl1WEliVl9MS0ZZQ0NUS2RmSUV5S1FmSXJwUVVlZGtJbzBDNElyTkp4bHR6cnBnVGl1dFVOSm1QMzlLUWkxeWVPQ3c?oc=5",
-      "source": "연합뉴스",
-      "pubDate": "Mon, 27 Jul 2026 00:37:15 GMT"
-    },
-    {
-      "company": "토스",
-      "category": "디지털 금융",
-      "title": "토스 페이스페이, 마트 5000곳에서…포스 기업과 제휴",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqQnZCSHlDTTA2MVZJWkpVT2dUOVpUYm9ySEY1UF9KQTY5MW0zV1JMdVFHdWJrN2s1Y2V4bUlNUUFpOFBVTEhTNE9VdkdqU2t2VlIyLWxn?oc=5",
-      "source": "지디넷코리아",
-      "pubDate": "Mon, 27 Jul 2026 00:26:42 GMT"
-    },
-    {
       "company": "두나무",
       "category": "디지털 금융",
       "title": "경찰청이 택한 두나무…수탁 사업 맡는다",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1ZDhHNVRNbWpiTmJwLTlpckMzTXM4MUljZjA3aDBTTmgtcXItX1BFZnV0ZnN5SmRWMWZiSXRabkc1cXpUUFd3MGhfOHQ1di1La1pIOHZR?oc=5",
       "source": "DealSite경제TV",
       "pubDate": "Mon, 27 Jul 2026 00:25:16 GMT"
-    },
-    {
-      "company": "코인원",
-      "category": "디지털 금융",
-      "title": "코인원 앱에 한투증권 연결…\"지분거래 후 첫 협업\"",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wNENYVm52azdqSk1tMGJFYTBFYlViMVNGb3otUGZVaVFZbWp2eDJ4ZWhoR0FUN3VyOFd0bkJVekhYTWZLdnM5TE9MZXM5a3dKRE1KYV83TWdzdzZITHc1Z291NlJOSk1wU3c?oc=5",
-      "source": "비즈워치",
-      "pubDate": "Mon, 27 Jul 2026 00:16:03 GMT"
     },
     {
       "company": "NHN",
@@ -1292,22 +1308,6 @@
       "pubDate": "Sun, 26 Jul 2026 19:00:00 GMT"
     },
     {
-      "company": "코인원",
-      "category": "디지털 금융",
-      "title": "코빗 품은 미래에셋·코인원 올라탄 한투…증권사 STO 선점전 By Bloomingbit",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkeUVmdDNyZjd4R0MxZWR0ZlJRZVFjOTJPbVV3VWhXb2R1U2tCc2JQX1Z2SUM1aWRXUzMwUmFlRTNudDJKMjlfNXJacDUxOXhQYURzSGloMUttQnNJcy01ZzcyVUlPNU1qZlpwdnRqZHRNVVk?oc=5",
-      "source": "Investing.com 한국어",
-      "pubDate": "Sun, 26 Jul 2026 17:29:00 GMT"
-    },
-    {
-      "company": "KT",
-      "category": "IT 서비스",
-      "title": "롯데, KT 10연승 저지하고 4연패 탈출…키움 김윤하, 18연패 끊어(종합)",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oME1oOWVfZ3M0bGpTWEozM01SYTN4T0tuaURWNXR6SGtCX3dOb180cF90OFZjQW91NC12Yk9GMXBhMkI5NnlwNzZQY2V0UW5MRzBLYWZHeHFxWVNJMV9XNdIBeEFVX3lxTFBVMXZXZVpNN0dGM3dGMW5sNWlITy1zcG51TXM4WFZmWlpBLTNhN0lFeDFIZ3Z4ZE5vMjhGck44OEhHNjZ0REY4djlVTnF2TzE1Q2tGWHU4SG43eVpUdVdaMjY0aVU4YXJKYUxPRWd2Z2xneGhSeHowcw?oc=5",
-      "source": "뉴시스",
-      "pubDate": "Sun, 26 Jul 2026 13:16:06 GMT"
-    },
-    {
       "company": "컴투스",
       "category": "디지털 금융",
       "title": "컴투스 ‘아이모’, 전 서버 유저 한곳에 모인다…신규 콘텐츠 ‘헌팅 그라운드’ 30일 공개",
@@ -1340,6 +1340,14 @@
       "pubDate": "Sun, 26 Jul 2026 08:53:00 GMT"
     },
     {
+      "company": "코인원",
+      "category": "디지털 금융",
+      "title": "코빗 품은 미래에셋·코인원 올라탄 한투…증권사 STO 선점전",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwdUpoTlFjSTgyQ2JMVEpNZ1B6dmFQTGxzS0hyTF9aRzlhbGszbnluc2xGN2lrbTQ1N3FwN2dDbllBWFBlb0c5R2w0TTdtYWZKUGIwYXQyYWlFZw?oc=5",
+      "source": "한국경제",
+      "pubDate": "Sun, 26 Jul 2026 07:58:09 GMT"
+    },
+    {
       "company": "코빗",
       "category": "디지털 금융",
       "title": "코빗 품은 미래에셋·코인원 올라탄 한투…증권사 STO 선점전",
@@ -1362,6 +1370,14 @@
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53SDJwUWpaUjFTV05NRl82MnFjb0I1b0hLY01JRGRhc3QwR2p1NFJMUE1acE9kRWdUb2wzRDlaazJuYWhwQ19nLUFQWDFub3Z3UFJIZWlaZFktd0dZWEpqeFBR?oc=5",
       "source": "디지털데일리",
       "pubDate": "Sun, 26 Jul 2026 04:30:49 GMT"
+    },
+    {
+      "company": "KT",
+      "category": "IT 서비스",
+      "title": "KT 금융AX 차별화...\"고객사 성과·안전 중심으로 직접 운영\"",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TNmZmQW1uU01kTUg4YUtlUUxXNGlBaTZHc0I2bnhIOUV2RjZ4V3ppc3U2c3lSVUlTZ0FLMEZ5Vzk4ZTVrNUF1NVJPWHN3R3VwMVkzQWN3?oc=5",
+      "source": "지디넷코리아",
+      "pubDate": "Sun, 26 Jul 2026 03:09:14 GMT"
     },
     {
       "company": "더존비즈온",
@@ -1394,14 +1410,6 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4cld6THFRdXVIRDFHaW16R0p0Q0lvWU93RGZLaU5ocnM2LVd5a0lULTUxcHgwVXNBVk1YQWxqTkszcDh5T3hDZE1LenpmbVZqSlBXbzlzUWg5bndQQTJlZlRoQV9weUc0WnhkSFFR?oc=5",
       "source": "알파경제",
       "pubDate": "Sat, 25 Jul 2026 00:27:09 GMT"
-    },
-    {
-      "company": "코인원",
-      "category": "디지털 금융",
-      "title": "[업데이트 노트] 한국투자증권 주식거래 바로가기 서비스 안내",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IYVk2WkF6WjhjeVZiTmYtcWRkVGdHZVRFR1FzZ2pSemc2T0hJN0xBSzZKMERhTW1kQ3pxR0s1VF9TZW9XTUNpbndEWDdWR1U?oc=5",
-      "source": "coinone.co.kr",
-      "pubDate": "Fri, 24 Jul 2026 15:09:14 GMT"
     },
     {
       "company": "네이버파이낸셜",
@@ -1698,14 +1706,6 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSFlidmRrakk2RE03WHZzeDRYVGIyQ1VCd2xtVHRNcVJmdk1fUXFCTkhQa0c4ZDZHcG5yRHBUVDJnNVhlS1lqQUpnbEQ3YjZFZlk3aTlQXzB0ejk4cHllalR2UDhZX3ZIMFRKek56YXY2VjJGVnYzRVRnWGw5dllNaQ?oc=5",
       "source": "조선일보",
       "pubDate": "Thu, 23 Jul 2026 06:26:58 GMT"
-    },
-    {
-      "company": "코인원",
-      "category": "디지털 금융",
-      "title": "금융당국, 코인원 대주주 변경 신고 수리…한투증권·OKX 합류",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XUm9IaFZPRW1VbFpKM3YxbzdaMmttc1FyT1hkRWxHNlBaVC1YOEVDV3I2MEhVbW0tS0o4NnFFOWFZSW1DUk9kSE5oN0lTc0xtQ0lZMmVqaWxxSERwYkc2aldMdVNCWnc?oc=5",
-      "source": "연합뉴스TV",
-      "pubDate": "Thu, 23 Jul 2026 06:23:00 GMT"
     },
     {
       "company": "코빗",
