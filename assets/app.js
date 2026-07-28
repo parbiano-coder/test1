@@ -7,6 +7,7 @@ const state = {
   companies: [], // [{ name, category }]
   activeCategory: ALL,
   activeCompany: ALL,
+  activeKeyword: ALL,
   query: "",
 };
 
@@ -14,6 +15,7 @@ const els = {
   updatedAt: document.getElementById("updatedAt"),
   categoryFilters: document.getElementById("categoryFilters"),
   companyFilters: document.getElementById("companyFilters"),
+  keywordFilters: document.getElementById("keywordFilters"),
   searchInput: document.getElementById("searchInput"),
   statusMessage: document.getElementById("statusMessage"),
   articleList: document.getElementById("articleList"),
@@ -58,6 +60,16 @@ function makeFilterButton(label, isActive, dotColorVar, onClick) {
   return btn;
 }
 
+// 카테고리/기업 필터에 해당하는(키워드 필터 적용 전) 기사 목록.
+// 키워드 칩 목록과 개수는 이 기준으로 계산한다.
+function articlesForKeywordScope() {
+  return state.articles.filter((a) => {
+    const matchesCategory = state.activeCategory === ALL || a.category === state.activeCategory;
+    const matchesCompany = state.activeCompany === ALL || a.company === state.activeCompany;
+    return matchesCategory && matchesCompany;
+  });
+}
+
 function renderCategoryFilters() {
   els.categoryFilters.innerHTML = "";
   const options = [ALL, ...state.categories];
@@ -66,9 +78,11 @@ function renderCategoryFilters() {
     const dotColorVar = category === ALL ? null : seriesVarForCategory(category);
     const btn = makeFilterButton(category, category === state.activeCategory, dotColorVar, () => {
       state.activeCategory = category;
-      state.activeCompany = ALL; // 카테고리를 바꾸면 기업 선택 초기화
+      state.activeCompany = ALL; // 카테고리를 바꾸면 하위 필터 초기화
+      state.activeKeyword = ALL;
       renderCategoryFilters();
       renderCompanyFilters();
+      renderKeywordFilters();
       renderArticles();
     });
     els.categoryFilters.appendChild(btn);
@@ -90,10 +104,45 @@ function renderCompanyFilters() {
     const dotColorVar = category ? seriesVarForCategory(category) : null;
     const btn = makeFilterButton(company, company === state.activeCompany, dotColorVar, () => {
       state.activeCompany = company;
+      state.activeKeyword = ALL; // 기업을 바꾸면 키워드 필터 초기화
       renderCompanyFilters();
+      renderKeywordFilters();
       renderArticles();
     });
     els.companyFilters.appendChild(btn);
+  }
+}
+
+function renderKeywordFilters() {
+  els.keywordFilters.innerHTML = "";
+
+  const scoped = articlesForKeywordScope();
+  const counts = new Map();
+  for (const a of scoped) {
+    for (const k of a.keywords ?? []) {
+      counts.set(k, (counts.get(k) ?? 0) + 1);
+    }
+  }
+
+  // 사전에 정의된 순서를 유지하되, 현재 범위에 하나도 없는 태그는 숨긴다.
+  const availableTags = state.keywordTags.filter((tag) => counts.has(tag));
+  if (availableTags.length === 0) return;
+
+  const totalBtn = makeFilterButton(`${ALL} (${scoped.length})`, state.activeKeyword === ALL, null, () => {
+    state.activeKeyword = ALL;
+    renderKeywordFilters();
+    renderArticles();
+  });
+  els.keywordFilters.appendChild(totalBtn);
+
+  for (const tag of availableTags) {
+    const label = `${tag} (${counts.get(tag)})`;
+    const btn = makeFilterButton(label, state.activeKeyword === tag, null, () => {
+      state.activeKeyword = state.activeKeyword === tag ? ALL : tag;
+      renderKeywordFilters();
+      renderArticles();
+    });
+    els.keywordFilters.appendChild(btn);
   }
 }
 
@@ -103,8 +152,9 @@ function renderArticles() {
   const filtered = state.articles.filter((a) => {
     const matchesCategory = state.activeCategory === ALL || a.category === state.activeCategory;
     const matchesCompany = state.activeCompany === ALL || a.company === state.activeCompany;
+    const matchesKeyword = state.activeKeyword === ALL || (a.keywords ?? []).includes(state.activeKeyword);
     const matchesQuery = !query || a.title.toLowerCase().includes(query);
-    return matchesCategory && matchesCompany && matchesQuery;
+    return matchesCategory && matchesCompany && matchesKeyword && matchesQuery;
   });
 
   els.articleList.innerHTML = "";
@@ -148,6 +198,25 @@ function renderArticles() {
 
     li.appendChild(meta);
     li.appendChild(titleEl);
+
+    if (article.keywords?.length) {
+      const tagRow = document.createElement("div");
+      tagRow.className = "tag-row";
+      for (const tag of article.keywords) {
+        const tagBtn = document.createElement("button");
+        tagBtn.type = "button";
+        tagBtn.className = "tag-chip";
+        tagBtn.textContent = tag;
+        tagBtn.addEventListener("click", () => {
+          state.activeKeyword = tag;
+          renderKeywordFilters();
+          renderArticles();
+        });
+        tagRow.appendChild(tagBtn);
+      }
+      li.appendChild(tagRow);
+    }
+
     fragment.appendChild(li);
   }
   els.articleList.appendChild(fragment);
@@ -162,6 +231,7 @@ async function init() {
     state.articles = data.articles ?? [];
     state.categories = data.categories ?? [];
     state.companies = data.companies ?? [];
+    state.keywordTags = data.keywordTags ?? [];
 
     const updated = new Date(data.updatedAt);
     els.updatedAt.textContent = Number.isNaN(updated.getTime())
@@ -170,6 +240,7 @@ async function init() {
 
     renderCategoryFilters();
     renderCompanyFilters();
+    renderKeywordFilters();
     renderArticles();
   } catch (err) {
     els.updatedAt.textContent = "";

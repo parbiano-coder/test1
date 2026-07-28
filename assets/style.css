@@ -159,6 +159,17 @@ body {
   padding: 0.3rem 0.7rem;
 }
 
+#keywordFilters .filter-btn {
+  font-size: 0.75rem;
+  padding: 0.25rem 0.65rem;
+  color: var(--text-muted);
+}
+
+#keywordFilters .filter-btn .dot {
+  width: 6px;
+  height: 6px;
+}
+
 .filter-btn .dot {
   width: 8px;
   height: 8px;
@@ -240,6 +251,27 @@ body {
 
 .article-title a:visited {
   color: var(--text-secondary);
+}
+
+.tag-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin-top: 0.55rem;
+}
+
+.tag-chip {
+  border: none;
+  background: var(--page-plane);
+  color: var(--text-muted);
+  font-size: 0.72rem;
+  padding: 0.15rem 0.55rem;
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+.tag-chip:hover {
+  color: var(--text-primary);
 }
 
 .site-footer {

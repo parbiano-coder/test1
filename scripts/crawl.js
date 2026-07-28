@@ -33,6 +33,37 @@ const COMPANIES = [
   { name: "컴투스", query: '"컴투스"', category: CATEGORY_FINANCE },
 ];
 
+// 기사 제목에서 태그를 뽑아내기 위한 키워드 사전.
+// 태그 하나에 여러 트리거 단어를 매칭시키고, 첫 매칭 순서대로 태그를 붙인다.
+const KEYWORD_RULES = [
+  { tag: "AI", patterns: ["AI", "인공지능"] },
+  { tag: "실적", patterns: ["실적", "매출", "영업이익", "순이익", "흑자", "적자"] },
+  { tag: "상장", patterns: ["상장", "IPO"] },
+  { tag: "투자·인수", patterns: ["투자", "인수", "M&A", "지분"] },
+  { tag: "파트너십·제휴", patterns: ["파트너", "제휴", "협약", "MOU", "협력"] },
+  { tag: "클라우드", patterns: ["클라우드"] },
+  { tag: "데이터센터", patterns: ["데이터센터"] },
+  { tag: "스테이블코인", patterns: ["스테이블코인"] },
+  { tag: "디지털자산", patterns: ["디지털자산", "가상자산", "암호화폐", "코인"] },
+  { tag: "보안·해킹", patterns: ["해킹", "보안", "유출", "피싱"] },
+  { tag: "규제·정책", patterns: ["규제", "금융당국", "정책", "법안", "국감"] },
+  { tag: "신제품·출시", patterns: ["출시", "런칭", "공개", "선보"] },
+  { tag: "글로벌·해외", patterns: ["글로벌", "해외", "수출", "진출"] },
+  { tag: "채용·조직", patterns: ["채용", "인사", "조직개편"] },
+  { tag: "결제·페이", patterns: ["결제", "페이"] },
+  { tag: "게임", patterns: ["게임"] },
+];
+
+function extractKeywords(title) {
+  const upper = title.toUpperCase();
+  const tags = [];
+  for (const rule of KEYWORD_RULES) {
+    const matched = rule.patterns.some((p) => upper.includes(p.toUpperCase()));
+    if (matched) tags.push(rule.tag);
+  }
+  return tags;
+}
+
 const ITEMS_PER_COMPANY = 12;
 const OUTPUT_PATH = path.join(process.cwd(), "data", "news.json");
 const USER_AGENT =
@@ -77,6 +108,7 @@ async function fetchCompanyNews(company) {
       link: textOf(item.link).trim(),
       source,
       pubDate: textOf(item.pubDate).trim(),
+      keywords: extractKeywords(title),
     };
   });
 }
@@ -100,6 +132,7 @@ async function main() {
     updatedAt: new Date().toISOString(),
     categories: [CATEGORY_IT, CATEGORY_FINANCE],
     companies: COMPANIES.map((c) => ({ name: c.name, category: c.category })),
+    keywordTags: KEYWORD_RULES.map((r) => r.tag),
     articles: results,
   };
 
