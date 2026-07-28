@@ -1,7 +1,10 @@
-# 국내 IT서비스기업 뉴스 모아보기
+# 국내 IT 서비스 및 디지털 금융 뉴스 모아보기
 
-삼성SDS, LG CNS, SK C&C, 네이버, 카카오, NHN, 더존비즈온, 한글과컴퓨터의 최신 뉴스를
-Google 뉴스 RSS에서 주기적으로 수집해 보여주는 정적 사이트입니다.
+Google 뉴스 RSS에서 국내 주요 기업의 최신 뉴스를 주기적으로 수집해 카테고리별로
+보여주는 정적 사이트입니다. 두 개 카테고리로 분류합니다.
+
+- **IT 서비스**: 삼성SDS, LG CNS, SK AX, 네이버, 카카오, NHN, 더존비즈온, 한글과컴퓨터, KT, 네이버클라우드
+- **디지털 금융** (스테이블코인 · 디지털자산): 두나무, 빗썸코리아, 코인원, 카카오페이, 네이버파이낸셜, 토스, 코빗, 고팍스, 컴투스
 
 - 크롤러: Node.js 스크립트가 회사별 Google 뉴스 RSS를 가져와 `data/news.json`으로 저장
 - 자동화: GitHub Actions가 6시간마다 크롤러를 실행하고 결과를 커밋
@@ -40,9 +43,11 @@ npx serve .           # 아무 정적 서버로 index.html 확인 (예: npx serv
 이후로는 6시간마다 GitHub Actions가 자동으로 뉴스를 갱신하고 커밋하며,
 GitHub Pages가 그 내용을 그대로 반영합니다.
 
-## 대상 기업 / 소스 변경하기
+## 대상 기업 / 카테고리 / 소스 변경하기
 
-- 대상 기업 목록: [`scripts/crawl.js`](scripts/crawl.js)의 `COMPANIES` 배열 수정
+- 대상 기업·카테고리 목록: [`scripts/crawl.js`](scripts/crawl.js)의 `COMPANIES` 배열 수정
+  (각 항목은 `{ name, query, category }` 형태이며 `category`는 `CATEGORY_IT` 또는 `CATEGORY_FINANCE`)
+- 새 카테고리를 추가하려면 `CATEGORY_*` 상수를 추가하고 `payload.categories`에도 반영
 - 크롤링 주기: [`.github/workflows/crawl.yml`](.github/workflows/crawl.yml)의 `cron` 값 수정
 - 회사당 수집 기사 수: `scripts/crawl.js`의 `ITEMS_PER_COMPANY` 값 수정
 

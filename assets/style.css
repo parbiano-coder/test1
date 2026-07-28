@@ -150,6 +150,15 @@ body {
   cursor: pointer;
 }
 
+#categoryFilters .filter-btn {
+  font-weight: 600;
+}
+
+#companyFilters .filter-btn {
+  font-size: 0.78rem;
+  padding: 0.3rem 0.7rem;
+}
+
 .filter-btn .dot {
   width: 8px;
   height: 8px;

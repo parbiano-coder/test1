@@ -1,24 +1,33 @@
 const DATA_URL = "data/news.json";
+const ALL = "전체";
 
 const state = {
   articles: [],
-  companies: [],
-  activeCompany: "전체",
+  categories: [],
+  companies: [], // [{ name, category }]
+  activeCategory: ALL,
+  activeCompany: ALL,
   query: "",
 };
 
 const els = {
   updatedAt: document.getElementById("updatedAt"),
-  filters: document.getElementById("filters"),
+  categoryFilters: document.getElementById("categoryFilters"),
+  companyFilters: document.getElementById("companyFilters"),
   searchInput: document.getElementById("searchInput"),
   statusMessage: document.getElementById("statusMessage"),
   articleList: document.getElementById("articleList"),
 };
 
-function seriesVarFor(company) {
-  const index = state.companies.indexOf(company);
+// 카테고리는 2개뿐이므로 검증된 카테고리 팔레트의 앞쪽 두 슬롯(파랑/주황)을 그대로 사용한다.
+function seriesVarForCategory(category) {
+  const index = state.categories.indexOf(category);
   if (index === -1) return "var(--text-muted)";
   return `var(--series-${(index % 8) + 1})`;
+}
+
+function companyCategory(companyName) {
+  return state.companies.find((c) => c.name === companyName)?.category;
 }
 
 function formatDate(pubDate) {
@@ -33,31 +42,58 @@ function formatDate(pubDate) {
   });
 }
 
-function renderFilters() {
-  const options = ["전체", ...state.companies];
-  els.filters.innerHTML = "";
+function makeFilterButton(label, isActive, dotColorVar, onClick) {
+  const btn = document.createElement("button");
+  btn.type = "button";
+  btn.className = "filter-btn";
+  btn.setAttribute("aria-pressed", String(isActive));
+  if (dotColorVar) btn.style.setProperty("--dot-color", dotColorVar);
 
-  for (const company of options) {
-    const btn = document.createElement("button");
-    btn.type = "button";
-    btn.className = "filter-btn";
-    btn.setAttribute("aria-pressed", String(company === state.activeCompany));
-    if (company !== "전체") {
-      btn.style.setProperty("--dot-color", seriesVarFor(company));
-    }
+  const dot = document.createElement("span");
+  dot.className = "dot";
+  btn.appendChild(dot);
+  btn.appendChild(document.createTextNode(label));
 
-    const dot = document.createElement("span");
-    dot.className = "dot";
-    btn.appendChild(dot);
-    btn.appendChild(document.createTextNode(company));
+  btn.addEventListener("click", onClick);
+  return btn;
+}
 
-    btn.addEventListener("click", () => {
-      state.activeCompany = company;
-      renderFilters();
+function renderCategoryFilters() {
+  els.categoryFilters.innerHTML = "";
+  const options = [ALL, ...state.categories];
+
+  for (const category of options) {
+    const dotColorVar = category === ALL ? null : seriesVarForCategory(category);
+    const btn = makeFilterButton(category, category === state.activeCategory, dotColorVar, () => {
+      state.activeCategory = category;
+      state.activeCompany = ALL; // 카테고리를 바꾸면 기업 선택 초기화
+      renderCategoryFilters();
+      renderCompanyFilters();
       renderArticles();
     });
+    els.categoryFilters.appendChild(btn);
+  }
+}
 
-    els.filters.appendChild(btn);
+function renderCompanyFilters() {
+  els.companyFilters.innerHTML = "";
+
+  const visibleCompanies =
+    state.activeCategory === ALL
+      ? state.companies
+      : state.companies.filter((c) => c.category === state.activeCategory);
+
+  const options = [ALL, ...visibleCompanies.map((c) => c.name)];
+
+  for (const company of options) {
+    const category = company === ALL ? null : companyCategory(company);
+    const dotColorVar = category ? seriesVarForCategory(category) : null;
+    const btn = makeFilterButton(company, company === state.activeCompany, dotColorVar, () => {
+      state.activeCompany = company;
+      renderCompanyFilters();
+      renderArticles();
+    });
+    els.companyFilters.appendChild(btn);
   }
 }
 
@@ -65,9 +101,10 @@ function renderArticles() {
   const query = state.query.trim().toLowerCase();
 
   const filtered = state.articles.filter((a) => {
-    const matchesCompany = state.activeCompany === "전체" || a.company === state.activeCompany;
+    const matchesCategory = state.activeCategory === ALL || a.category === state.activeCategory;
+    const matchesCompany = state.activeCompany === ALL || a.company === state.activeCompany;
     const matchesQuery = !query || a.title.toLowerCase().includes(query);
-    return matchesCompany && matchesQuery;
+    return matchesCategory && matchesCompany && matchesQuery;
   });
 
   els.articleList.innerHTML = "";
@@ -89,12 +126,11 @@ function renderArticles() {
 
     const badge = document.createElement("span");
     badge.className = "company-badge";
-    badge.style.setProperty("--badge-color", seriesVarFor(article.company));
-    badge.textContent = article.company;
+    badge.style.setProperty("--badge-color", seriesVarForCategory(article.category));
+    badge.textContent = `${article.category} · ${article.company}`;
     meta.appendChild(badge);
 
-    const sep1 = document.createTextNode(" · " + (article.source || "출처 미상"));
-    meta.appendChild(sep1);
+    meta.appendChild(document.createTextNode(" · " + (article.source || "출처 미상")));
 
     const dateText = formatDate(article.pubDate);
     if (dateText) {
@@ -124,6 +160,7 @@ async function init() {
     const data = await res.json();
 
     state.articles = data.articles ?? [];
+    state.categories = data.categories ?? [];
     state.companies = data.companies ?? [];
 
     const updated = new Date(data.updatedAt);
@@ -131,7 +168,8 @@ async function init() {
       ? ""
       : `마지막 업데이트: ${updated.toLocaleString("ko-KR")}`;
 
-    renderFilters();
+    renderCategoryFilters();
+    renderCompanyFilters();
     renderArticles();
   } catch (err) {
     els.updatedAt.textContent = "";
