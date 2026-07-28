@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T04:43:13.563Z",
+  "updatedAt": "2026-07-28T04:51:20.268Z",
   "companies": [
     "삼성SDS",
     "LG CNS",
@@ -11,6 +11,20 @@
     "한글과컴퓨터"
   ],
   "articles": [
+    {
+      "company": "카카오",
+      "title": "한양대 ERICA, 카카오·안산시와 '임팩트 챌린지' 캠프 개최",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xM1RhR29zU2J0bmJPc0xXUDJ0NHRuSW1IWWxMVkpHQW9wbllOX2pVU0hwWGpERE5WR01vSFdyUlF6eW02azluRUR6R2pmQ2pFUUhMY0JPQTYzeENoc0t4atIBeEFVX3lxTE1GeWVScHlzWHFZVVFuUEZpX0h4c2JId0xCekh1MU5iREM5WFlZaFdjT0Y5cDFtZE1CSmwtd1dNZEpwMUllWlIyMjNBVGZpb2o3UVpib29CUVJFaHJYbnY3RUNwMXpUMUNsdTZZVFQxeUlnUW00R2FiUQ?oc=5",
+      "source": "뉴시스",
+      "pubDate": "Tue, 28 Jul 2026 04:41:04 GMT"
+    },
+    {
+      "company": "삼성SDS",
+      "title": "KMI, GSI·삼성SDS 찾아 디지털·AI 전환·공급망 대응 점검",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TX25pX1NoMXk0b2VRMndjcTNIdjd5S3VRR2RPaXB6Q2w2aEJRdGFIaGYzWmYxSDNBcjA1b2tkQk1laDNFRjNSdVNCME9KQ25vNkNJ?oc=5",
+      "source": "네이트",
+      "pubDate": "Tue, 28 Jul 2026 04:37:00 GMT"
+    },
     {
       "company": "네이버",
       "title": "엔비디아는 GPU 판매, 브룩필드는 이자 받고…네이버 14조원의 계산",
@@ -76,10 +90,10 @@
     },
     {
       "company": "카카오",
-      "title": "카카오게임즈, ‘가디언 메이든’ 글로벌 퍼블리싱 계약",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sX3FZTkRQaEJTUFNQajJkZ2VRSUtCQXd5dVNzODhoOGxjSXRJeldEYmc2bVZsNmF3Q3FIRnd6NUE4WVpsWEhxeHpGS01hZzdwUnI2em16cEtwOS1WdXfSAWNBVV95cUxNT1k2Y1NWcXhRTjk4TkdkRm1Rd29BRjhIR0VQMDlaX1k3VHMtaTVTeE9Gak50R0I1SXduQkJabTloOXBsTHJVZXRWT240azdPQU5FNVA5NnRVNnRJME4walJIeEk?oc=5",
-      "source": "스포츠경향",
-      "pubDate": "Tue, 28 Jul 2026 01:16:00 GMT"
+      "title": "카카오페이, '사각사각 서포터즈' 출범...청년 100명과 금융 사각지대 해소",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IbFpQU3JFXzVNdVJVT3l4MzhSWElVdjlneHJvWUR4WTVZd1d6R2U2a0JEZlpkczFBSzBDY3IwZzdyN3U4c0QzYkVTdUp2N1k?oc=5",
+      "source": "v.daum.net",
+      "pubDate": "Tue, 28 Jul 2026 01:40:12 GMT"
     },
     {
       "company": "카카오",
@@ -117,18 +131,18 @@
       "pubDate": "Tue, 28 Jul 2026 00:37:34 GMT"
     },
     {
-      "company": "카카오",
-      "title": "카카오페이, 청년 디지털 금융 리더 사각사각 서포터즈 1기 발대식 개최",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mS0RmdVdjUjg1TkVoZ0d3ZERfVUlmaGU2M3prLVJoVmxhMlgwNXp2bnlVRHJrbHZVeU5SVncydGY4empnbTBlVkduMnJkald4OW15NERNbmdDRnBwS3JBbWROR0hLbnlkQlNVeE1YamMwTDAwcnNiVUxB?oc=5",
-      "source": "로이슈",
-      "pubDate": "Tue, 28 Jul 2026 00:26:08 GMT"
-    },
-    {
       "company": "NHN",
       "title": "[리포트 브리핑]NHN, '정부 CapEx 기반의 에셋라이트 모델' 목표가 68,000원 - KB증권",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzVUpNcy1Tai1iM21XeVdnWXJxaTRKRC1GUTJYWnBneElhaktzZ3lRWlVEXzdXUHZHR2Nib2FjcjBMT083OGNvWUstMTJENFRoTDlXYXlsOFY5eW5J?oc=5",
       "source": "뉴스핌",
       "pubDate": "Tue, 28 Jul 2026 00:21:00 GMT"
+    },
+    {
+      "company": "카카오",
+      "title": "카카오, 한국어 특화 경량 AI '카나나-2' 오픈소스 공개",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDSXZ4ampBMVNiSGtfdXNDb3hNNV9ZcVhxbWduWDk3TmFkSFBKMmVYRHI0SUFyb0tLVXdaV1FRTldrNWhaUVp4VTZMNDd3QnFUSFRhcktPbjNSOVlzM2NxN9IBeEFVX3lxTFAtSW9QMkU0SUFLVEdybUtuenZMVklpVUR4WHYyWERHT3d5ZDhEUFgtWGFIYm84MGlJWko4OWN4Tk5VY0J1VGlSanRfTkUtRjVpWFRJbjR4UTZrdDlEdWFCcGpqdC1ncXR4MnFWY0hHeThSNDZGVmxNbw?oc=5",
+      "source": "뉴시스",
+      "pubDate": "Tue, 28 Jul 2026 00:17:52 GMT"
     },
     {
       "company": "네이버",
@@ -192,13 +206,6 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ObE5IODFYS3A1T3hNTWR5eVFyQmZBUE5oNnJyN0tMSGJDdjFabk5XZFdLVFVJUEl3a1JfbFVZTXJFVTFmVG5ubE9tY2xDSFlVeVZNMmEtYzRlMmJUT212TEx2RXNYX00?oc=5",
       "source": "연합뉴스TV",
       "pubDate": "Mon, 27 Jul 2026 20:36:00 GMT"
-    },
-    {
-      "company": "카카오",
-      "title": "카카오, 경량 언어모델 4종 오픈소스로 공개... “글로벌 수준 성능”",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTTTB3cFNQTmN5cUlCQnVsV1dEQlBWYTdOT2Zlcm9TSzR4RXZfRjNiMHIxclpDdm1vZEd1QWlOcGVnNUR1TkJ1N2N5S0p1cjBfQVBsUW13?oc=5",
-      "source": "카카오",
-      "pubDate": "Mon, 27 Jul 2026 17:28:36 GMT"
     },
     {
       "company": "네이버",
@@ -265,13 +272,6 @@
     },
     {
       "company": "삼성SDS",
-      "title": "AI가 벌어준 하루, 당신의 조직은 어디에 쓰고 있습니까? | 인사이트리포트 | 삼성SDS",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa0kxUlBDaGNQT2JJT1FoOHRMYmM2X0lxOGRvZEs2WDdTaVJrSXVMNDlrREdodXEzcXFYTlhtYmZuODZFY1J0ZlVSQncyX21oUmx1b29ETEJXTk9yUUswSnJmR040QkU0bUlENVFZMEkzbDhFWDZoVnRMUjlUSDJIRw?oc=5",
-      "source": "Samsung SDS America",
-      "pubDate": "Mon, 27 Jul 2026 06:41:33 GMT"
-    },
-    {
-      "company": "삼성SDS",
       "title": "삼성SDS, 앤트로픽과 전략적 파트너십…20개 관계사 7만 명에 클로드 제공",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uaU1SN2ZCUTV6NUNmMmdVUWNXRUxrTFhQU2tQVEdjY1lqUHQ3RHBPQ083aXNtek1XbVc3YnQ2aEh1cFRHUk96bzl1eGpDSEJVaHl6ZFFicDMzdWdIZU9r?oc=5",
       "source": "헬로티",
@@ -318,20 +318,6 @@
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hTE1zT3hSak95LUQ0MEo1alhvc3NieXRKOWwwaDB0V2lnb2NMazVTNjY1aXNjTklBWWxDWTI0UERJbHAweTMyOUdBdVdKWEExUGs3T1Nld1pyYU9fdC14Qlp6WF8?oc=5",
       "source": "MTN 머니투데이방송",
       "pubDate": "Mon, 27 Jul 2026 02:41:39 GMT"
-    },
-    {
-      "company": "삼성SDS",
-      "title": "삼성SDS·앤트로픽, AI 시장공략 파트너십",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MMmdVUUNud015X0c4U3VXUUNIdndLcTVKM180MVdRQ3MwNTJwck1hWF9ZM1FlYWNNOGtVWllhaTlhSWRpQ01BQkhaTTVHUGZBQ29ZN1ln?oc=5",
-      "source": "헤럴드경제",
-      "pubDate": "Mon, 27 Jul 2026 02:30:37 GMT"
-    },
-    {
-      "company": "NHN",
-      "title": "NHN KCP, 신한은행과 ‘프로젝트 한강’ 2단계 참여…CBDC 결제 실증 나서",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA4RjNreDdGdjNNZ3NVc1pnRExZbWNhTHIxMURXN0U0T0txS3JuMzR5RVZ1SmJfdTBTaEVnYzl0UG5JNWY2d3JzNmhfdjlyb1E?oc=5",
-      "source": "v.daum.net",
-      "pubDate": "Mon, 27 Jul 2026 01:58:37 GMT"
     },
     {
       "company": "NHN",
@@ -444,6 +430,13 @@
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBemw1LWhvTFBOSmdpYVlEckxHYjlYdEF2b01Sc1BaNWZkdDk3OU5fenlULUJEUUo2WHVoOWo4YkJmWUxLRVZjNE5NTGRfWGl3c09ISmZwNlk?oc=5",
       "source": "강원일보",
       "pubDate": "Sun, 26 Jul 2026 05:57:59 GMT"
+    },
+    {
+      "company": "삼성SDS",
+      "title": "[샌프란 AI선언] 삼성SDS·앤트로픽 손잡고 네이버·엔비디아 협력",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0yNzZBS3AtbHZXRVlSSU95WEhnZ09INFlWNlVYUmJEZk9PQ2xySzF6SW0zeDFJQVNZVDdfanRteWs1QTRKUzhsZWVCOWM5QQ?oc=5",
+      "source": "전자신문",
+      "pubDate": "Sun, 26 Jul 2026 04:57:53 GMT"
     },
     {
       "company": "더존비즈온",
@@ -593,6 +586,13 @@
       "pubDate": "Fri, 24 Jul 2026 04:49:59 GMT"
     },
     {
+      "company": "NHN",
+      "title": "[르포]NHN KCP, 스테이블코인 써보니…상용화 문턱까지 왔다",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80TXl2MGhYSlZ4WmN2R3Itb2tkVW93Qjk0WmI5dktoQnJ6LW9rdnBCZUd3b1ZjMkdTSzVHRGlPODJvNk1wR21WQjBTZWZpQQ?oc=5",
+      "source": "전자신문",
+      "pubDate": "Fri, 24 Jul 2026 04:11:39 GMT"
+    },
+    {
       "company": "한글과컴퓨터",
       "title": "한글과컴퓨터, 36년 만에 ‘한컴’으로 사명·종목명 변경…AI 기업 전환 본격화",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ad1pFTXU2RVhfZzByR2JXaFpaVFpBR0Z4bnp1cWtON194Q1hHSWJhMDhhOEVnNS00Z0FuR2Y0TlZXekEydnN4TzdLbUpqcmVJcmFfbDVNbEg4dUVOY1lndVJVdk03VnUt?oc=5",
@@ -629,24 +629,10 @@
     },
     {
       "company": "SK C&C",
-      "title": "[SI 시대가 온다]SK AX, 숙련도·보안성 갖춘 '에이전틱 AI' 승부수",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96UlJVdVM5ME9XbFprV3dfdjJENU42cTJMVUFTUG1DQUVUODNrVUJGV1BqeGhmQUl1MmJJcGpoUjZIWUFCaHBybDVPX2hUWDdLUjFjSA?oc=5",
-      "source": "v.daum.net",
-      "pubDate": "Mon, 09 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "company": "SK C&C",
       "title": "SK C&C(034730)",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WVGowSE5BVVNmVUJ5QXdzNjFPZVUzX2s3V0ZuVUk4M3ctcUE2dXN6NzBlR0Izek5rMlFpRDBja0ZsTlpCa2ZnekRqUC1YR2tSZ2lYcTR3SzZaN2M?oc=5",
       "source": "ThinkPool",
       "pubDate": "Wed, 04 Mar 2026 20:49:24 GMT"
-    },
-    {
-      "company": "SK C&C",
-      "title": "[상법 개정 후폭풍]② 최태원, SK 지배구조 변곡점 맞나…“자사주 소각·재산분할 ‘변수’ 겹쳤다”",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KT2p5RUkxU0tYU1QtTk1CdndiZElON1liZmhlSVU3Mmd6dTZZblBhdThFcmVhUF9QWkNRSndSZ3pIRXR2MFdad2ZhdWFaUVltWU16WGd5aW44T0k2ZzZKMW83S0pScURy?oc=5",
-      "source": "CEO스코어데일리",
-      "pubDate": "Fri, 20 Feb 2026 08:00:00 GMT"
     },
     {
       "company": "SK C&C",
@@ -671,10 +657,24 @@
     },
     {
       "company": "SK C&C",
+      "title": "SK C&C, 사명 ‘SK AX’로 변경…”2027년까지 업무 생산성 30% 향상 목표”",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2RkZTMEZhQ1dnUmZoT0dwNWxXNkJNaDcwRmNOZGttU2JUTkdXX2JZOGlGbXpBVzhZZnZvSWZlWTBOVm14SWpFanRzQmQ2UjVSa0g0M2gyUzdPSktFa1pIRUVyWTI1blNWcWc?oc=5",
+      "source": "AI타임스",
+      "pubDate": "Tue, 13 May 2025 07:00:00 GMT"
+    },
+    {
+      "company": "SK C&C",
       "title": "[단독] SK C&C, 27년 만에 사명 바꾼다…'SK AX'로 확정",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LN3dBaXNtVUZKdjZsRDNmNFhtMjg4eW9NZ3d5cW8zTXlyOG9pQkJodnFZcU5LUWU1bVRDakhrSjg4OUdoSzd1Qkl6YXZlRG1uOFZNaTln?oc=5",
       "source": "지디넷코리아",
       "pubDate": "Mon, 12 May 2025 07:00:00 GMT"
+    },
+    {
+      "company": "SK C&C",
+      "title": "[단독] 최태원 지배구조 핵심 SK C&C, 의문의 ‘V프로젝트’",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjMDktM2xZYzlLczJsa2tvOXItYUJDMU1tbEVacnR5aEkteGdLd0VGSE9lRTNadFY5TVc5TUxBd01OeEpHZjJQNG5IQmhYVGxJTlhyVFRRZFAwcms?oc=5",
+      "source": "KBS 뉴스",
+      "pubDate": "Thu, 01 May 2025 07:00:00 GMT"
     },
     {
       "company": "SK C&C",
