@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T01:08:39.876Z",
+  "updatedAt": "2026-08-21T06:41:22.282Z",
   "categories": [
     "IT 서비스",
     "디지털 금융"
@@ -102,26 +102,441 @@
   ],
   "articles": [
     {
+      "company": "NHN",
+      "category": "IT 서비스",
+      "title": "\"NHN KCP, PG 넘어 AI 결제 인프라로\"",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnTHdaVVRUVXZhaGVReVZfdzlJeHBGWUtBWWJzWmZUbHRuV21EUE5lc1pjUVZjVFp0MmIyTFhPWHYyejAzMndDcnZrZTN6RDhuZzBsMlV1UklkLWlVWVE?oc=5",
+      "source": "뉴스투데이",
+      "pubDate": "Fri, 21 Aug 2026 06:34:00 GMT",
+      "keywords": [
+        "AI",
+        "결제·페이"
+      ]
+    },
+    {
+      "company": "카카오",
+      "category": "IT 서비스",
+      "title": "‘문어발 상장’ 꼬리표 카카오 인적분할…‘AI 분리’로 재평가 가능할까",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU0xJRGNjbHFqdkFHSkNGekhUc2hfWHpycDUteWs5aDMtSm1BTGtKaUJGNFBjNlFjdktqakRkOVVrY3lON0NDcE1GUFZJSUtrS3VmZDBUMFNOZ0JVRHp5MUhxY3FtMHNQb0dpcFBTTjlOcVpGYVJidE5uZXlSaGFQNUNXMA?oc=5",
+      "source": "인베스트조선",
+      "pubDate": "Fri, 21 Aug 2026 06:32:00 GMT",
+      "keywords": [
+        "AI",
+        "상장"
+      ]
+    },
+    {
+      "company": "코인원",
+      "category": "디지털 금융",
+      "title": "한투·OKX 등에 업은 코인원…'점유율 10%' 승부수",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzejRHaFpsdDVQaDBob3ZGUi1PMGUtZGhZV2IwRGZMdFF5ZFJ4M2l3ZzQwX0o2bW1DMHExWkFscVBSd1JPWTBWWExoMThZekwxSWpRdEx1WEhFX1NnWTB2eA?oc=5",
+      "source": "뉴스토마토",
+      "pubDate": "Fri, 21 Aug 2026 06:28:18 GMT",
+      "keywords": [
+        "디지털자산"
+      ]
+    },
+    {
+      "company": "네이버클라우드",
+      "category": "IT 서비스",
+      "title": "건양대 SW중심대학사업단, 네이버클라우드 ‘Agentic AI 과정’ 운영",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4ZFJMWUstcUpSX3ZLNlRWZ29BSWZqbGhObkVXRExrazFNUl9tSGY5ay1PWHNwSnNxbUw2Ymk2NVFvRGh2MUtCSi1KUjZiUlZpS3QwV1ZuLVJvaU1COGVmSXRJSFdxZHhLalZV?oc=5",
+      "source": "충청메트로",
+      "pubDate": "Fri, 21 Aug 2026 05:59:40 GMT",
+      "keywords": [
+        "AI",
+        "클라우드"
+      ]
+    },
+    {
+      "company": "빗썸코리아",
+      "category": "디지털 금융",
+      "title": "리테일 한계 드러낸 업비트·빗썸…기관시장 선점도 '빨간불'",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XdVk0LXY2M0ZGaW9OUVl5VW14YUFQV0RsNnhiTDVGX08zc0E0Y3BZQ3JVd3BSM3g4M3ExbE92ZV9fR1NVeTRKZDc1MA?oc=5",
+      "source": "아이뉴스24",
+      "pubDate": "Fri, 21 Aug 2026 05:53:29 GMT",
+      "keywords": []
+    },
+    {
+      "company": "네이버",
+      "category": "IT 서비스",
+      "title": "건양대, 네이버클라우드와 실무인재 양성…\"생성형→자율형 AI로\" - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PaVh4LUl1WEJiVVRrVnJJYmxtNFJmLWhBaXVvLVlGYnlzTnBTSEdTUzhpMHo0Wkp0MC1yX2tJS1ZZRWFMdVFiX2k5NnM5aG1jaHptTzU3MzgzWDBJamRzdlYxVXYtYzZacnfSAW9BVV95cUxQNEk4dEFkcXc4bERmMTVkX1RzVFpreVFzR0NtVE9YQzZMT3RPeVJvWEwtVmRmdXlpcnA0bWR1d0ZiSlZNa1I5SnVmNU9RLWJMOUdrdWEwdUJxd0JoY1pYcXBBVTMwcTFYdlR6RVZCTUE?oc=5",
+      "source": "머니투데이",
+      "pubDate": "Fri, 21 Aug 2026 05:44:36 GMT",
+      "keywords": [
+        "AI",
+        "클라우드"
+      ]
+    },
+    {
+      "company": "네이버클라우드",
+      "category": "IT 서비스",
+      "title": "건양대, 네이버클라우드와 실무인재 양성…\"생성형→자율형 AI로\" - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PaVh4LUl1WEJiVVRrVnJJYmxtNFJmLWhBaXVvLVlGYnlzTnBTSEdTUzhpMHo0Wkp0MC1yX2tJS1ZZRWFMdVFiX2k5NnM5aG1jaHptTzU3MzgzWDBJamRzdlYxVXYtYzZacnfSAW9BVV95cUxQNEk4dEFkcXc4bERmMTVkX1RzVFpreVFzR0NtVE9YQzZMT3RPeVJvWEwtVmRmdXlpcnA0bWR1d0ZiSlZNa1I5SnVmNU9RLWJMOUdrdWEwdUJxd0JoY1pYcXBBVTMwcTFYdlR6RVZCTUE?oc=5",
+      "source": "머니투데이",
+      "pubDate": "Fri, 21 Aug 2026 05:44:36 GMT",
+      "keywords": [
+        "AI",
+        "클라우드"
+      ]
+    },
+    {
+      "company": "컴투스",
+      "category": "디지털 금융",
+      "title": "[프리뷰] \"전투·생산·거래 확장\"…컴투스 '제우스: 오만의 신', MMORPG 경쟁 공식 재편",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DQU5QMGFyTXFYX1o0cGxqVVJqbmhvX3B6LWVTSTlrNFNwT3djRFB2ajREdU54YVFpLV9pRXJJX2hfNGQtN2dxT0hCTG1sQjRSd0tfdmROQ1pYUzBDa1BUcHd5dEY5eFM2Mmc?oc=5",
+      "source": "청년일보",
+      "pubDate": "Fri, 21 Aug 2026 05:30:00 GMT",
+      "keywords": []
+    },
+    {
+      "company": "컴투스",
+      "category": "디지털 금융",
+      "title": "[게임 레이더] 컴투스·스마일게이트·넷마블, 온·오프라인 넘나들며 '이용자 소통' 강화",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaUk1BTzZuNFYzdjhDb3pwODdkQXd0MV9fdGlpYzJCR3ZiMEVVUkdCQy1VSUp2cXRBRGpuempqUEUzV0piU01Yd0owX2l1WllaT1V1ag?oc=5",
+      "source": "더밸류뉴스",
+      "pubDate": "Fri, 21 Aug 2026 05:11:57 GMT",
+      "keywords": [
+        "게임"
+      ]
+    },
+    {
+      "company": "컴투스",
+      "category": "디지털 금융",
+      "title": "컴투스, '컴투스프로야구V 클럽 챔피언십' 결선 29일 개최",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RZ3VTdUh1YWpXVERyTXp4WUJ2cVVRWDZzYWd2Q3BHZzlsdzVFelBEQzVqNVNqNXpNRHdvU3dxY1U5YmNDYTBtWGotbzNvVjQ?oc=5",
+      "source": "v.daum.net",
+      "pubDate": "Fri, 21 Aug 2026 04:56:39 GMT",
+      "keywords": []
+    },
+    {
       "company": "KT",
       "category": "IT 서비스",
-      "title": "KT, '네트왓킹·스크롤픽'…Z세대가 뽑은 트렌드 키워드 공개",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wbDVUc3ZEQXh4SlhtSTFFeXk1MUdoTXAzS2lrS0FlRU9hd2NpVmJ5dTFBWTR3VUE1Yy1Rekh6ampnamttbnpwSTZDbkN5ZjRVcUZMcUcyZ2NGazA?oc=5",
-      "source": "연합뉴스",
-      "pubDate": "Fri, 21 Aug 2026 00:55:44 GMT",
+      "title": "요즘 Z세대 트렌드는 ‘네트왓킹’ ‘스크롤픽’…KT 서포터즈 선정",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mcC01U1FNSTF4VGxnZGR0X3NOaTQxZEZvX2FyVDJJakFiVG1MZGlNOU1YYmNRcWNXT2pkMlZnbjN6cHAzdjN1aEQxamNrT3c1VVIwWFU2XzkzRTBCRzZETklZR0h4YnpFanFzVWpB?oc=5",
+      "source": "아시아투데이",
+      "pubDate": "Fri, 21 Aug 2026 04:52:20 GMT",
+      "keywords": []
+    },
+    {
+      "company": "두나무",
+      "category": "디지털 금융",
+      "title": "두나무는 투자·빗썸은 긴축…불황 대응 '극과 극'",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PZ2FwcEFHQlBWd1UtSWZQQTNtSUpBQzJ2WTlCN1JHX29EdExVSk9IamtDTGFDbW90NHBSMERaNmE4enNMMVUzYWluT1YtUWM0VkRkM2ZpSHMxWHFTX3Q1b0FQSEc?oc=5",
+      "source": "서울경제TV",
+      "pubDate": "Fri, 21 Aug 2026 04:46:21 GMT",
       "keywords": [
-        "신제품·출시"
+        "투자·인수"
+      ]
+    },
+    {
+      "company": "빗썸코리아",
+      "category": "디지털 금융",
+      "title": "두나무는 투자·빗썸은 긴축…불황 대응 '극과 극'",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PZ2FwcEFHQlBWd1UtSWZQQTNtSUpBQzJ2WTlCN1JHX29EdExVSk9IamtDTGFDbW90NHBSMERaNmE4enNMMVUzYWluT1YtUWM0VkRkM2ZpSHMxWHFTX3Q1b0FQSEc?oc=5",
+      "source": "서울경제TV",
+      "pubDate": "Fri, 21 Aug 2026 04:46:21 GMT",
+      "keywords": [
+        "투자·인수"
+      ]
+    },
+    {
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "title": "[줌인] LG CNS, 생활 속으로 들어온 피지컬 AI...아파트 순찰하는 로봇 등장",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tbVVmUGxXX25SR2gtQ0EwRWhpYUpaZ09ZVzJwWVhnSl9lRE05a3M0RWpLSDlsSmlzWkkySmlnQlR5M0xEZl9oaDFxMmN1OU5RUGJDbXNlTDdsNnNpVVdLTEp3c0NFYTRx?oc=5",
+      "source": "데일리팝",
+      "pubDate": "Fri, 21 Aug 2026 04:44:00 GMT",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "company": "컴투스",
+      "category": "디지털 금융",
+      "title": "[프리뷰]모두가 즐길 수 있는 경쟁형 MMORPG, 컴투스 신작 ‘제우스: 오만의 신’",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JVEtlYkJmUEY0TUdoamFuMk5XOHJRZFZUbk8tSHVsX25jVmNHREpxWWVNM1lnWHlDalNNWkwwWjB2U3hOQTdzNW04dXBBUnl6UDZnNjJHckM4cG1RMUF2Uw?oc=5",
+      "source": "게임포커스",
+      "pubDate": "Fri, 21 Aug 2026 04:36:51 GMT",
+      "keywords": []
+    },
+    {
+      "company": "네이버클라우드",
+      "category": "IT 서비스",
+      "title": "사우디 지자체 '네이버' 깐다 … 사우디 정부가 직접 권고",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FMU9Eakwwcmlac0Z2eWF5OU8tNHNybXpZY3duaV9pa3pseXkxa19fTDdIWE5tcnh0eldPWGtXbnE2ZVczNWFKOG1sV3RtOEVjdHowZnQ5cF9FcU5VRTVZQV9IdFgxMl8ycmlrZGVKZ9IBc0FVX3lxTFBqbnBtcVZDOGV6UXRaY0hUWV95RG5IMms2U21vcmRhX1pDTHZhRFBwVFEzSjJ6YzVxd3RtSE1MQkZLTXhDbFZhdkw1d2RZWmtSTko1N3FnZTQzNHhkbFlXQWhVcm9lQjJ1SzYwVVBzY0Y2blE?oc=5",
+      "source": "세이프타임즈",
+      "pubDate": "Fri, 21 Aug 2026 04:16:13 GMT",
+      "keywords": []
+    },
+    {
+      "company": "카카오",
+      "category": "IT 서비스",
+      "title": "카카오 둘로 쪼갠다…‘카카오AI·카카오X’로 인적분할",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PMmxBT3dmTG1XenhuMXAyYU9QUTctajc5eE1qYTVQOVZkZTVfWjBfX08ySjQ5RUJrNE04OUJTdWxRNkRVV0phcWZlLXNMcE0?oc=5",
+      "source": "v.daum.net",
+      "pubDate": "Fri, 21 Aug 2026 04:09:07 GMT",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "company": "토스",
+      "category": "디지털 금융",
+      "title": "기아, 中 브랜드 홍보대사 선정…신형 셀토스 흥행몰이 '전면'",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pMXpwNWtEX1Q0UDVBUmRFRG1HMGVERmRXTy03U25wUlNISVl1b2VMeGpXWDFnWmFITndUTUwxUGhzTGh1cmI3ckowc1RTbTl6R2RESlgzUmlSR2poSkRqNHdENA?oc=5",
+      "source": "더구루",
+      "pubDate": "Fri, 21 Aug 2026 04:06:40 GMT",
+      "keywords": []
+    },
+    {
+      "company": "컴투스",
+      "category": "디지털 금융",
+      "title": "컴투스 '제우스: 오만의 신', '모두를 위한 MMORPG'",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4QS01d2k1dDB0akdTd1dzWGRJS1RNZktNTGRvaTlfSWxtcTF3ZUVEd3RVVzJOTFE4V1Z3UmdydFJrRFhXbzNlV0gyVFlZMW9lRDc4?oc=5",
+      "source": "네이트",
+      "pubDate": "Fri, 21 Aug 2026 04:04:00 GMT",
+      "keywords": []
+    },
+    {
+      "company": "컴투스",
+      "category": "디지털 금융",
+      "title": "컴투스홀딩스, '컬러스위퍼' 글로벌 협동 이벤트 '월드 페인터' 개시",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40ZWpRR0pvWi1KRjVJVXlrMDlMREtoRzMxYlBoZmx1NHMxUzI4TDI3ek1IOGZCNFNCYmRrRHIwNGZ2YVFaT1ZEV1g4RUhtcWo5QVZLUm9Ud0hHX2JPRjFXS3JmaW9INmdmd2dPLWdqMUNQRXFtTzUyaWJn?oc=5",
+      "source": "로이슈",
+      "pubDate": "Fri, 21 Aug 2026 03:39:32 GMT",
+      "keywords": [
+        "글로벌·해외"
+      ]
+    },
+    {
+      "company": "네이버클라우드",
+      "category": "IT 서비스",
+      "title": "팀네이버, 사우디아라비아 정부 '국가 디지털트윈 표준 플랫폼'으로 채택",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aSUZ5QU5yYUZNQUl3LWQyT3pGTXdrb2lzTUExVVlNX19GZU1OZVF3cExRTmxlQV9jM1NLTWlCd0kwSWwtUTZubklsVkY3RVFlQ2wzMU1LSDZvZV9zZHRuVmthZDFfQXdFTFE?oc=5",
+      "source": "디지털경제뉴스",
+      "pubDate": "Fri, 21 Aug 2026 03:37:18 GMT",
+      "keywords": []
+    },
+    {
+      "company": "카카오페이",
+      "category": "디지털 금융",
+      "title": "카카오페이 ‘페이-득’ 결제전환율 19.4%…이례적 성과에 마케터 이목 집중",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9GeUw0YjI1Wi0tb3BoSTM3dXh6NGk2MDh5SGppcHo0dmFJc0FxM1JRWHJPbEFLSW9HTURLV093cUc4TThxNXh2R1M5RU53WU5r?oc=5",
+      "source": "문화일보",
+      "pubDate": "Fri, 21 Aug 2026 02:48:54 GMT",
+      "keywords": [
+        "결제·페이"
+      ]
+    },
+    {
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "title": "호르무즈 닫히면 구매는?…LG CNS는 세일즈포스 '태블로'로 예측한다",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nRWJUYWkxcGNGcVJBcEgxV3BoM19VQnBUTDlfbTBnUG9XdkpNMGx3dGpmdWw1X3lHZzFtaGpQMzduWHoyNzJka1VHVWhuMHF6d3QtSmJnUXg2LU9uejRaZV9aaVNZUUVx0gFsQVVfeXFMT0tPd1NWRHhmdU1WRHBmQzlneWtsdm5HM2VpZGdKeWNHc216TzEtOG9kVGdiUVYyd3hYMnp1TjZtX3hoZlRtYzZGMWVZVjFrdW1WdU1EYl9GZHFrM1dtV2lEQ1NKRUxaeTZjZXdf?oc=5",
+      "source": "블로터",
+      "pubDate": "Fri, 21 Aug 2026 02:19:31 GMT",
+      "keywords": []
+    },
+    {
+      "company": "카카오",
+      "category": "IT 서비스",
+      "title": "또 쪼개나…지긋지긋한 카카오의 분할 상장 전략",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xT1c1aTVhb3daRnJFYVd0cl9OSzUxNW1wMFhMbWdkQkw1WEFoQUJHUVhTUThuRFJfd0Rhak1LRlhVRXhBb1NOS3V0S29FVDR4RENtYzBjcFFTVV9FNDRJZUF4NVpYY3Jldmc?oc=5",
+      "source": "대한데일리",
+      "pubDate": "Fri, 21 Aug 2026 02:18:25 GMT",
+      "keywords": [
+        "상장"
       ]
     },
     {
       "company": "KT",
       "category": "IT 서비스",
-      "title": "\"AI 시대, 효율성이 경쟁력\"…KT, 고효율 AI 인프라 청사진 제시",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tUzVtTHFYb2RUcHRPb3VSbndmZERVeEpTNl9MaG44QVVpUUJxU25feHQ5RVVacEhsWkhyby1CY08xV2k0Wld6blB3NFFOeHc?oc=5",
-      "source": "v.daum.net",
-      "pubDate": "Fri, 21 Aug 2026 00:55:27 GMT",
+      "title": "네트왓킹·밸런쉼 하고 계십니까?…KT, Z세대 '뉴트렌드' 귀 기울인다",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XV0ZUYzRQOXFJVXlBWFdZOE1saHR5bE9Ta1hJc0x2Z2gxV0xJeVljOHg4UVJpZ1I1SmRHZE01dDRCOHU0Y19rYzgzS2ZsUF90emNQeW55ellpTDRxNjlNOUhHYWtvMmR3?oc=5",
+      "source": "녹색경제신문",
+      "pubDate": "Fri, 21 Aug 2026 02:04:03 GMT",
+      "keywords": []
+    },
+    {
+      "company": "토스",
+      "category": "디지털 금융",
+      "title": "[단독] 해외옵션 교육 ‘숨겨서 재생’…토스증권, 투자자보호 실효성 논란 - 조선비즈",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTW13Nnd0YUNJTUJwdFhiQnZUUGZuUmJFSzVMa2tNbFBLZ3lsQTVjbzQ5djh1aTF1RTQ1T0VILUs5MWJOS2RMQS1rNjFBU0FPZzBQRGo3NDVvVENfM1pXd215dF9LMDVqZ3A3SkppaEF0N0pNZnliUXpMaURsdmlYd3hkZ1c3d1dL0gGcAUFVX3lxTE9reFpTZVkyNGhrYlotNHFJeDFLRVo0Y2Q3SnRtZ0FoRDRodGEwTHNTbkR2bklSSlB2Wkh0TFFyRkVNeU9Fd3NDbTFMMWtvWFlMeUFzbi1lRk9zeGdwUTlOMkhYbWVpbGJoN3hvcTZWUXVnWXAwdkVOczE3ZjNmSGNpQTlCZFRUdE5GcHExeHM4QUYxeTd2Rlpudnc3Rg?oc=5",
+      "source": "Chosunbiz",
+      "pubDate": "Fri, 21 Aug 2026 01:51:00 GMT",
+      "keywords": [
+        "투자·인수",
+        "글로벌·해외"
+      ]
+    },
+    {
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "title": "엔비디아 업무협약 LG…'이족보행 로봇' 내년 출격",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41NERuUG96Ul83TGpndk51NjZSRDZMYUF6a1V5MmpuT3I0dWtTeHg5X0xxZXRDV2ViZGwzY19MQlM1LXotMVFRN3ZURnNlejlTNkhN?oc=5",
+      "source": "경제타임스",
+      "pubDate": "Fri, 21 Aug 2026 01:49:32 GMT",
+      "keywords": [
+        "파트너십·제휴"
+      ]
+    },
+    {
+      "company": "빗썸코리아",
+      "category": "디지털 금융",
+      "title": "[빗썸] 넥소(NEXO) 원화 마켓 추가",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qOF9zNFlKY3dOa1lqR1pPSnFqbzNDeFBLSmhXSGZuNk9ncjdlRzdPNWRMQTV0UzZ3eFdES28zTkJQU284bGNsY2hOWFVadHJE?oc=5",
+      "source": "블루밍비트",
+      "pubDate": "Fri, 21 Aug 2026 01:45:16 GMT",
+      "keywords": []
+    },
+    {
+      "company": "카카오",
+      "category": "IT 서비스",
+      "title": "카카오, 카카오톡 분할하기로…\"메신저에서 AI 컴퍼니로\"(종합)",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZTDlCTkZ0WkhMVlBzaWc0TjJuUGl6NzREVGozd3EybmN5M2RfbVNLdElZSm1vNThGVVhNLTBIZDhtV29rVU45TTl6M0hkYmt5TXVSQ090STNWellCdmdPZXZaQ0p0b0J5enRVRFFCSHI?oc=5",
+      "source": "연합인포맥스",
+      "pubDate": "Fri, 21 Aug 2026 01:42:15 GMT",
       "keywords": [
         "AI"
       ]
+    },
+    {
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "title": "공항부터 신약·신소재까지…LG CNS, 산업별 AX 공략 가속",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kU1dxSXRnZkhxeFVVX0oybGxHcURMd1VPNzRZc3NCRDdWeUh1eHBHMWpuNmQ2aEhWZVZZVzBIS1RvSWhHd1VPeHNxVnFObjlZMU14MVBIV0tlM1l4WXVWbVV3N1gxWXNCOWlJX3JjNVc?oc=5",
+      "source": "위키리크스한국",
+      "pubDate": "Fri, 21 Aug 2026 01:33:46 GMT",
+      "keywords": []
+    },
+    {
+      "company": "카카오페이",
+      "category": "디지털 금융",
+      "title": "카카오X가 쥔 6조원 실탄, 제2의 카카오페이 찾는다",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nVE5xcF9rSGhPbmVFd24wRkFpRDF6MGhETlU5S0w5elN5UUR6NFpSNERDS196VWVjZ1p2TGpYX3pkQkRUUjdnRlhKSTIyejA5c0hrT3pUNnFnV3J0cUMzSzJkQU04d2lLb0x6NA?oc=5",
+      "source": "ER 이코노믹리뷰",
+      "pubDate": "Fri, 21 Aug 2026 01:33:32 GMT",
+      "keywords": [
+        "결제·페이"
+      ]
+    },
+    {
+      "company": "카카오페이",
+      "category": "디지털 금융",
+      "title": "카카오, 인적분할 결의…‘카카오 AI’와 ‘카카오 X’로",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4eFhNcDNnUkp0Vl9iQ2RxRjV5Ul9uLXNJSmxuTnJzZHN2UkIwaFg4eDhCdVhObE9fSV9mbnFnaVdhMTFVSDhHNmctNW02UTJIWW9YWQ?oc=5",
+      "source": "이투데이",
+      "pubDate": "Fri, 21 Aug 2026 01:31:00 GMT",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "company": "카카오",
+      "category": "IT 서비스",
+      "title": "카카오, '카카오AI·카카오X'로 인적분할…AI 사업·투자 부문 분리",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3pBTFFlS05veExuaVBua1lsWVc1ckdKdnZWY3RGMWlDb3dtTWM2MlBZNEpzdlNqcWV3YXJmQ0YzaGRVN0NDejl2cllVWVVuMmFOVjByenB1TnpaT0F6ejFHcUNmYmtEaTlZaFEwVV9MQ1hWeFRJakVvbHlSaXI4R2w5TQ?oc=5",
+      "source": "인베스트조선",
+      "pubDate": "Fri, 21 Aug 2026 01:24:00 GMT",
+      "keywords": [
+        "AI",
+        "투자·인수"
+      ]
+    },
+    {
+      "company": "KT",
+      "category": "IT 서비스",
+      "title": "KT ‘고효율 AI 인프라’ 발전 방향성 제시",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByeTdNdVk5OXVjM3ZIbHc3Njd6ZS1Hd2ZfX2xvSGhpSUUtZ09OcTE3M1VwMXdKQW9aVzNWRGVMWUtUTHptSTl5ZFVLY1I3MDFnUmtqX2s0VzdPbU1ibXk4QXN5S2xpQXRnRHkwcmhuQTLSAXRBVV95cUxPcjFUV3RFekc2aEZnTzB2M1VVN3ZxSVFOWm9jb3drTGJQY3VNd2FVcktUX2h6VExId3FrTkZpMGtHaUY3endMdjF1TU83VU5XaUNiQ0lGalRSQ21oVnV5cjEwOXBIc0dnUDNFd3VGdFFpWExJVg?oc=5",
+      "source": "IT조선",
+      "pubDate": "Fri, 21 Aug 2026 01:13:54 GMT",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "company": "카카오",
+      "category": "IT 서비스",
+      "title": "카카오, 카카오톡 분할하기로 결정…\"AI 서비스 선도\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mTVRNc2VBYk9sVlgzQnFHUmVVazB4aTRJZ1J0WElPY0tfZUU4dXowRFA2akdfZjNSb1NFZnFPQTVuMkc4d25zUGJ6Nkk2N1RnYm85YkwxR3dWSV9EM3JDbDkzX1ZGRHktOWlhalVEQzU?oc=5",
+      "source": "연합인포맥스",
+      "pubDate": "Fri, 21 Aug 2026 01:13:49 GMT",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "company": "카카오",
+      "category": "IT 서비스",
+      "title": "[속보] 카카오, 카카오 AI·카카오X로 인적분할 결의",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2SDJKUG5sMnZHVGxDeWtnQkFVWUJaQlA0d2F1ZkNKTThKRkFvYndrUi1oS29JdTlYay1vQzFlSG1WZUNSVndQZ0pleS1KUTBxMm1fcUVGeURvZXV2elJMZUlES0xGNVU?oc=5",
+      "source": "연합뉴스TV",
+      "pubDate": "Fri, 21 Aug 2026 01:13:00 GMT",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "company": "카카오",
+      "category": "IT 서비스",
+      "title": "한국거래소, 카카오 30분간 거래정지…회사분할 결정 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JTHE5SXZzOHZjb1VWcFdFS184SDZHYk1abWdyVjNqQXNER053cXNJb2owNldlMzF6dGlEMjI2ZFhwTmdWVkR1ZDM0RlRtWGJSS1NIcy1rZGt0alBMZ25MejVOdG5xMnM10gFuQVVfeXFMUDdWWEFYQTRRNDdVMFV4YzVrSjZ6LTZlaHhuRTNxaHFkNWFNZGFOY1kwT2FXSDNOQUNSUlF2eE1DazJpd0E4U3FVWjVJWmVreGxFM01wSDFfRU5tLU9FWklBQ05ROXZMNVAxZG5JcHc?oc=5",
+      "source": "머니투데이",
+      "pubDate": "Fri, 21 Aug 2026 01:10:50 GMT",
+      "keywords": []
+    },
+    {
+      "company": "토스",
+      "category": "디지털 금융",
+      "title": "\"토스 단말기, 쓸만 한가요?\"… 바쁜 사장님 직접 찾아 의견 들어 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGbnpYMVZVdWZ4YXNnODlHekJVVEZrV2lkQjJMWGkzMVI1YUZTX2RqQjFJb3pZMk9CeGR4VEF2OE9qcU1aTU5ZdVVxZVdGTXF2eEx5YlNXZ0pwNEg3SVc2cDVVMXFUcXloMWlv0gFwQVVfeXFMTnFlV0tJX21oZkR4eTBMb3MyNkplblVHa09BcldtU3QxNjg4dnAxbXdpRDdaOXg5ZV83SGRweUpJaXUxU19JU0lmZmgxbnI3UFliN0FKY0t1SkFuTXZGOHlzSWZfQlQ3UUxaMTVHLUpZSA?oc=5",
+      "source": "머니투데이",
+      "pubDate": "Fri, 21 Aug 2026 01:09:45 GMT",
+      "keywords": []
+    },
+    {
+      "company": "카카오페이",
+      "category": "디지털 금융",
+      "title": "생활에 착 붙는 혜택…'카카오뱅크 착붙 신한카드' 출시",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDaXpXRERYNGgwcnhwTDBRa2pISVhWQ1lwcEczdzFPd3hzUFlRd1lHRHhDcjZJN0I0RVZvNmdHTzdiSXNrNVpSY0FEZXlPS3RxWDAySlV6X0pROFNfTmtTeEcxWWQ?oc=5",
+      "source": "매일일보",
+      "pubDate": "Fri, 21 Aug 2026 01:09:09 GMT",
+      "keywords": [
+        "신제품·출시"
+      ]
+    },
+    {
+      "company": "카카오",
+      "category": "IT 서비스",
+      "title": "카카오, AI 중심 인적분할… ‘카카오AI·카카오X’로 새판 짠다 - 조선비즈",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN3RUYnFtTFgwbUVkZ3FJaXFtV3cwR014WHVWTlBXVFlSOFpxaWR6Nm5ZUlJrVDFpVDM4aEpCS3FNUHV4Z0l0QTdQT1FJd1pER0NFWVdPaDFsQW1wbjlSd1ZiR2FucDRKbFpMRTJjQmdsVUxNWWszd3hKWXhFU0pucWdB0gGWAUFVX3lxTFBjRnRFZVVsMEdCNUxOR1daTUJlT0JQWGlia1hyYTJwM0pQT3RKZVlQZUtlNm9zSFk5YWJnRDJycXJKaTJLaENqY1JqTWt2Z295VzhWU3JOVEJhVm5Rc0JvOHFnWmxEcFJ0cU1oVGtHZ2E2Rl9jNmpmbHJLOVYyOGVmMmF4MnphMTZyM2JOajdKcWI0dS1aZw?oc=5",
+      "source": "Chosunbiz",
+      "pubDate": "Fri, 21 Aug 2026 01:09:00 GMT",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "company": "카카오",
+      "category": "IT 서비스",
+      "title": "카카오, 인적분할 결의…‘두 개의 엔진’으로 AI 시대 고속 성장 이끈다",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LSkxtRjUxSjA1MkY1dHQ5VUpyajVfYjZaVlJ4dHVuNll4cVhxUXNvWVBLdmN0SmlUcGN5TEdDYVpXRnNfWlBaY0pyQTZ6X1dmUU00UFhR?oc=5",
+      "source": "카카오",
+      "pubDate": "Fri, 21 Aug 2026 01:03:42 GMT",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "company": "카카오",
+      "category": "IT 서비스",
+      "title": "[특징주] 카카오, 지배구조 개편설에 6% 하락",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoVUNGc2NsYjNjNUcyeWQ0SmRYMXVudC1GRzBZZ0pIVTc2bXZWeTVRV0VoWi1VLUNtODNtOXg2NDd3U2VFQXprOHVQR3pHSWs?oc=5",
+      "source": "v.daum.net",
+      "pubDate": "Fri, 21 Aug 2026 01:00:09 GMT",
+      "keywords": []
     },
     {
       "company": "두나무",
@@ -157,17 +572,6 @@
       ]
     },
     {
-      "company": "카카오",
-      "category": "IT 서비스",
-      "title": "\"일상 구석구석 착붙\"…'카카오뱅크 착붙 신한카드' 출시",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qcDdlYU5GM0dpYUpoLW00ZTdpU25UWlh4a1JVVkR6UkxJekstUGdhOXJQRU1kNHNudjY5T0ZnNlJpQjNMRjVSdWZIWWJsdHJXTVBJMU5ic0hvRWQyWGl3Sw?oc=5",
-      "source": "아시아경제",
-      "pubDate": "Fri, 21 Aug 2026 00:31:20 GMT",
-      "keywords": [
-        "신제품·출시"
-      ]
-    },
-    {
       "company": "네이버",
       "category": "IT 서비스",
       "title": "네이버가 투자한 씨냅스에이아이-딥픽셀, 비전 AI 모델 연동 협력⋯“AI 모델 활용 문턱 낮춘다”",
@@ -184,21 +588,12 @@
       "company": "카카오페이",
       "category": "디지털 금융",
       "title": "카카오페이 주가 하락 중",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WaW1od3laM28wVnE3UmZRaU9FRXYxQk11dXVxV2h6Rk5NeUFTWDlyQWpQcjJ6Z3k0NGhxd01xOEpYOVh5RHJISlZrQzdqWWk2UmxKNTc0c2hlSWVR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0TTQ2OHNFc1NtQlNDTzBsUWFMZUJnb09lMzRTdm81VzNHd2dJcWhLcmNlUVl1TFdoODVVV1BzNnNrcDFweVQ2TnVjMVY0Wl9qUnJRdk5TZFQ0NzN2eEdqVnM5aDF5OGZDSnpBUXp2SzFrd2Zx?oc=5",
       "source": "아시아뉴스통신",
       "pubDate": "Fri, 21 Aug 2026 00:17:59 GMT",
       "keywords": [
         "결제·페이"
       ]
-    },
-    {
-      "company": "토스",
-      "category": "디지털 금융",
-      "title": "토스플레이스, 가맹점 속으로…\"현장에서 답 찾는다\"",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04NHdPNU45OC03UnU5UFlZMVFSY1AwTU9VbUppd3JtMzVDejVweGZDOW9QSVFIWS13WnV1QlVJMTZiRkRCTEYwUkk3akVKemhUSVF4TzFoVXUxVkxTS3hDZHRlQldnaDRMZkduaGRIWm8?oc=5",
-      "source": "신아일보",
-      "pubDate": "Fri, 21 Aug 2026 00:09:44 GMT",
-      "keywords": []
     },
     {
       "company": "NHN",
@@ -213,44 +608,15 @@
       ]
     },
     {
-      "company": "네이버",
+      "company": "더존비즈온",
       "category": "IT 서비스",
-      "title": "슈퍼페이스, 네이버 스토어 공식 판매 개시",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vMTFMSFN2b2p4LTNMdWpwaDZLa1dzYlJTXzZJeW9BNlFkeVRZN0hrTXEzenNTV2FkX1ZxYmdJUUtNaGtDUDFEWnQtUW9vNE9YU29sZURvYUxVcU01?oc=5",
-      "source": "뉴스핌",
-      "pubDate": "Fri, 21 Aug 2026 00:00:00 GMT",
+      "title": "'AI 거래관계망 신용평가 모형'… CIKM 논문 채택",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tWXBFZDktalQ3N3hubXh0YWhrSkxPd29vX2RrOExCRWhEdktlZ3hJdXBNOXNKOU16M2NXaHNoRG9sMEFvTkhqa0NHRkdveWcyRTRvZUp3SkFZeU82Mk5vRjh5d1dtNzdpU2llZtIBcEFVX3lxTE5fa3BjUTNjSm1Mblk4bmY0TVVLRjQ3bEpxR1RsMWdUOHdEMVA0RUJRcnhXdS1OSHpUY3RjREdMcUlKMzhueXJ1dUlGcmhzRkNiWHFVMXpFTkRuZDhjeFpqVTJpWWFwaHhsNG9rZlE4RHI?oc=5",
+      "source": "소년한국일보",
+      "pubDate": "Fri, 21 Aug 2026 00:04:47 GMT",
       "keywords": [
-        "결제·페이"
+        "AI"
       ]
-    },
-    {
-      "company": "KT",
-      "category": "IT 서비스",
-      "title": "KT, Z세대가 뽑은 2026 트렌드 공개…‘네트왓킹·스크롤픽’",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50d25aQ2RyWS1mbjNqV2FPazlEZDNrTGVIalhFUnN1QnNyVlNWaEZXdnBvZjFSSERPOVcxNEVOU05hMXVEcHdIZm8zZHFnV0lYZU9mUGlB?oc=5",
-      "source": "헤럴드경제",
-      "pubDate": "Thu, 20 Aug 2026 23:58:58 GMT",
-      "keywords": [
-        "신제품·출시"
-      ]
-    },
-    {
-      "company": "토스",
-      "category": "디지털 금융",
-      "title": "토스뱅크 전자점자 여신·수신·카드로 확대…\"금융권 접근성, 문서 넘어 거래 전반으로\"",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tUUlQaWVacFoyckFOSHJudWN0UXljYjZGcnZWS1pKQW1xR1g3T0FlY1FIOWdTMXV0RzFMbUt5WlN1UTY4QUVHQklwVXZfRkFOeHBHZnhiVXlQZXF2ZENyUERfR1ZSeXQx?oc=5",
-      "source": "녹색경제신문",
-      "pubDate": "Thu, 20 Aug 2026 23:58:36 GMT",
-      "keywords": []
-    },
-    {
-      "company": "토스",
-      "category": "디지털 금융",
-      "title": "토스플레이스, 가맹점 방문 간담회 첫 개최",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tZ0pLRGstSTgzbWsxamlsaUVkQ3JzWkRnS1BaUWNwVTRST3JSdjNDMUpSTXhhdXMzdVo2LWNMV3lxalVuRXdOSVlMUmhXeU1zc2lBbDZvS25MUUZm?oc=5",
-      "source": "뉴스핌",
-      "pubDate": "Thu, 20 Aug 2026 23:56:00 GMT",
-      "keywords": []
     },
     {
       "company": "KT",
@@ -264,32 +630,12 @@
       ]
     },
     {
-      "company": "토스",
-      "category": "디지털 금융",
-      "title": "토스플레이스, 첫 가맹점 사장 간담회 개최",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53b3pIZ1BfeUQ5emhQUG95QUVsTENuWlFUUVlSWk1aSlZFTDdvNlJETk5tb3NyVzhsZ2ZET3VLVVFEakppeDFnenRWTWVaRThTYkF5N0tYOHAzdXN5YzJjUA?oc=5",
-      "source": "아시아경제",
-      "pubDate": "Thu, 20 Aug 2026 23:37:33 GMT",
-      "keywords": []
-    },
-    {
-      "company": "카카오",
-      "category": "IT 서비스",
-      "title": "백억커피, 카카오페이 할인·수도권 신규점 확대 병행 [ 신아일보 강동완 기자 ] : 네이버 블로그",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWkpFRU0zdm1UZUhzVmFESVJKMVJwcmhaNGF2S0YxQUZTZExrODE5ZmhoVlFHQ2hGSXZRU25OV29EYzlOZFkyU3c1VVBZajNsbTZBN0xFSGsxME1nY2VyN3p4NGc1LXliSW10U1had0V1Y3J6Rk1qVzd0WW41UFZDMkpZMHBFclU3TW1veVNn?oc=5",
-      "source": "Naver Blog",
-      "pubDate": "Thu, 20 Aug 2026 23:24:31 GMT",
-      "keywords": [
-        "결제·페이"
-      ]
-    },
-    {
       "company": "카카오페이",
       "category": "디지털 금융",
       "title": "백억커피, 카카오페이 할인·수도권 신규점 확대 병행 [ 신아일보 강동완 기자 ] : 네이버 블로그",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWkpFRU0zdm1UZUhzVmFESVJKMVJwcmhaNGF2S0YxQUZTZExrODE5ZmhoVlFHQ2hGSXZRU25OV29EYzlOZFkyU3c1VVBZajNsbTZBN0xFSGsxME1nY2VyN3p4NGc1LXliSW10U1had0V1Y3J6Rk1qVzd0WW41UFZDMkpZMHBFclU3TW1veVNn?oc=5",
       "source": "Naver Blog",
-      "pubDate": "Thu, 20 Aug 2026 23:24:31 GMT",
+      "pubDate": "Thu, 20 Aug 2026 23:25:31 GMT",
       "keywords": [
         "결제·페이"
       ]
@@ -313,6 +659,24 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvZzVPVHdGNEVxRVJiVFk4U293YzhoVVpJazJsRnpwOTRLU0FlUjgzVV9QYlhGWUZSTFRnYWxvbXF0cEhVMFRmSXpod0hrYVBFay03QlYyWFF6dw?oc=5",
       "source": "한국경제",
       "pubDate": "Thu, 20 Aug 2026 23:14:11 GMT",
+      "keywords": []
+    },
+    {
+      "company": "카카오",
+      "category": "IT 서비스",
+      "title": "바닥찍고 반등하는 네이버·카카오, 추가 상승 여력 어디가 더 높을까?",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvZzVPVHdGNEVxRVJiVFk4U293YzhoVVpJazJsRnpwOTRLU0FlUjgzVV9QYlhGWUZSTFRnYWxvbXF0cEhVMFRmSXpod0hrYVBFay03QlYyWFF6dw?oc=5",
+      "source": "한국경제",
+      "pubDate": "Thu, 20 Aug 2026 23:14:11 GMT",
+      "keywords": []
+    },
+    {
+      "company": "토스",
+      "category": "디지털 금융",
+      "title": "토스 행운퀴즈 정답 8월 21일",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAycnY0N3BuUnBTNENKaTU1ODBTb25GcTFzbnVrc3RxZ1VHNWRBNl9wOEJhbElVUHFtRWZqMzhZREhGVUF3UVAyVXFXZWxjQnV6WDgyd194ZThHS2RpaHBYMmotbDg?oc=5",
+      "source": "bntnews.co.kr",
+      "pubDate": "Thu, 20 Aug 2026 23:01:50 GMT",
       "keywords": []
     },
     {
@@ -388,6 +752,15 @@
       ]
     },
     {
+      "company": "네이버",
+      "category": "IT 서비스",
+      "title": "김상훈 “공정위, 네이버·두나무 합병 심사 서둘러야”",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV0FDSWYwNTFKQ0Y2ZTFMNVhGbWphMG9Kdl9UdG1Lc3g5aW1jUE5XNlNmclJGTnhzSGxBbGc0S0hjYmt0Qi14aTlBNHdESWNfOFBveVFTMEs4cmQ2WUdYcmQtLXNsb2VZdV9paHZHa0JRNmZRLWwyUmZxZFpmaFRvaA?oc=5",
+      "source": "edaily.co.kr",
+      "pubDate": "Thu, 20 Aug 2026 21:03:02 GMT",
+      "keywords": []
+    },
+    {
       "company": "두나무",
       "category": "디지털 금융",
       "title": "김상훈 “공정위, 네이버·두나무 합병 심사 서둘러야”",
@@ -406,12 +779,12 @@
       "keywords": []
     },
     {
-      "company": "네이버클라우드",
+      "company": "KT",
       "category": "IT 서비스",
-      "title": "네이버 디지털트윈, 사우디 '국가 표준' 채택",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sVEhBUVVMSEtDaVZOTUlzbjFxZjFFdFE5VTdxckwtMkUxTW5ObGlIX3otWkZlVmdRbTR6bDgxbGlCbDdadmlhY19SZXotVl96RVZWcjY2VDNMRHVtbWdsRm4zY3p6bk9Nb3V2eWVCWFJjNEhGa1Eycg?oc=5",
-      "source": "네이트",
-      "pubDate": "Thu, 20 Aug 2026 20:56:00 GMT",
+      "title": "KT·삼성 피 말리는 1위 경쟁, 2021년 냄새가 난다…\"쿠에바스 다시 데려올까?\" [MD잠실]",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNbVpTTlVPb3I1eXdzOGV0cGNwUHhyalNMVkJjWlJLcjFqWXc2emN1UVVwcHdWbEdzLV9DOGVHUFk1eFNrTGY1U0pXdGo0RlU?oc=5",
+      "source": "v.daum.net",
+      "pubDate": "Thu, 20 Aug 2026 20:42:51 GMT",
       "keywords": []
     },
     {
@@ -424,15 +797,6 @@
       "keywords": [
         "디지털자산"
       ]
-    },
-    {
-      "company": "카카오",
-      "category": "IT 서비스",
-      "title": "카카오, 21일 긴급 오픈톡…지주사 전환·카카오톡 분사 발표하나",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wUFRwNkQtU1VrVzk1blpNN1htWUkwTFZFdGxENHFGWld0RkVORVFrQXVnUWhEaE1vNzdrZmZxcDVHNkxnOThHeVR2d0dBdGxpblJEaVpB?oc=5",
-      "source": "지디넷코리아",
-      "pubDate": "Thu, 20 Aug 2026 15:08:44 GMT",
-      "keywords": []
     },
     {
       "company": "KT",
@@ -464,17 +828,6 @@
       ]
     },
     {
-      "company": "더존비즈온",
-      "category": "IT 서비스",
-      "title": "더존비즈온·테크핀레이팅스·KAIST, AI 거래관계망 신용평가 모형 개발",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMTVJ1Si1menFqcDMta0d6eHlNcWNWUFV4dmNEMDVhQ21EekRyVlRqVVY1d1RPV0JUYzg3UHp3QmM5YW5JdndFTm1ReS01LXUwMkVTTVI4M0ZKZjIwQnYwaXZ0TkVuSmQx?oc=5",
-      "source": "intn.co.kr",
-      "pubDate": "Thu, 20 Aug 2026 13:06:20 GMT",
-      "keywords": [
-        "AI"
-      ]
-    },
-    {
       "company": "네이버",
       "category": "IT 서비스",
       "title": "네이버 카페 글쓰기 오류…안드로이드 이용자들 불편 제기",
@@ -493,15 +846,25 @@
       "keywords": []
     },
     {
-      "company": "카카오",
+      "company": "네이버",
       "category": "IT 서비스",
-      "title": "카카오모빌리티, TPG 지분으로 美 ADR 상장 추진…카카오 이사회는 '선 긋기'",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5uRkRxZV9hVlZrZmZtSEFpejdRc19TLTVmT1NDX2l1X19mWjlBdTFiRnk0d0pCRXlkZXZXUVlnR3RudXZOY1d2dUkyUTZFZw?oc=5",
-      "source": "전자신문",
-      "pubDate": "Thu, 20 Aug 2026 09:31:00 GMT",
+      "title": "네이버 디지털트윈 ‘사우디 표준 플랫폼’ 됐다",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3QUwzWEF0aGdiTVFRZHFGUHhJd2cyVFhOZmo0Rnl4RUIycUdRVVd6dlpXSVR1YzZlNHdCRklsM3psUGZLbVdiZzA0MkxIOU9QUXc?oc=5",
+      "source": "서울경제",
+      "pubDate": "Thu, 20 Aug 2026 09:06:35 GMT",
+      "keywords": []
+    },
+    {
+      "company": "NHN",
+      "category": "IT 서비스",
+      "title": "[클라우드 월드] NHN KCP-라인 '디지털지갑 연동'·휴넷 '회생기업 컨설팅' 선정·한국딥러닝 '하반기 로드맵'·AWS '피지컬 AI 프론티어 프로그램' 출시",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wNkI2NERTWDh1WDBWeVVGOVB5ZUptWTR2U1p0VUFLX1lLWnExRzBRQ1ZHdEhRNGgxWC04UHZhSWJlV0NCRThGb1lpLW85QzFiZ25VYzROTjItWVJyQlhjTWdBalNMbXZQbnR5Vno3WdIBc0FVX3lxTFA2TUVPUkItMXNZZEdsRU1GbVhtNFpHRC1aZVhlbk9LMnNNNVN3SkdfenpfX0ZNLUVBbzhBa3phSDRGUGgyY256dG4zTmM3OGpITnk2OTAxWlpqUGgxdXg3d3BRNnFEeDBkNE13OTJ2NGhJOWs?oc=5",
+      "source": "뉴스웍스",
+      "pubDate": "Thu, 20 Aug 2026 09:04:07 GMT",
       "keywords": [
-        "상장",
-        "투자·인수"
+        "AI",
+        "클라우드",
+        "신제품·출시"
       ]
     },
     {
@@ -525,17 +888,6 @@
       "keywords": []
     },
     {
-      "company": "더존비즈온",
-      "category": "IT 서비스",
-      "title": "더존비즈온-테크핀레이팅스-KAIST, ‘AI 거래관계망 신용평가 모형’ 국제 권위 CIKM 채택",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jVDhQY2MyRVRsTDJYZXNvMTl1VHlhMk45cHdITzEzS2RJRUkxLXYzbWgxa2F4Wjk4MkVveUNlS3l4WEhoMEFQSUZXRUlvdjdaaDRjeQ?oc=5",
-      "source": "이투데이",
-      "pubDate": "Thu, 20 Aug 2026 08:41:00 GMT",
-      "keywords": [
-        "AI"
-      ]
-    },
-    {
       "company": "카카오페이",
       "category": "디지털 금융",
       "title": "카카오페이 ‘페이-득’, 평균 결제전환율 16.7%…제휴 마케팅 성과 공개",
@@ -547,15 +899,6 @@
         "신제품·출시",
         "결제·페이"
       ]
-    },
-    {
-      "company": "빗썸코리아",
-      "category": "디지털 금융",
-      "title": "빗썸, 앱 없이 KB국민은행 계좌 개설…웹 연동 지원",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2a09aQUl2aVpPUTRWSGxHcDktelFoVG5tS01LQWhrWlNEb1BPQWgwazJUSUdUTDYtVXBSMzhldXRULVczeGtId1pVZUFQSHZZX0gxWUVla2twZm1EMnhzUDk2bER4cHM?oc=5",
-      "source": "팍스경제TV",
-      "pubDate": "Thu, 20 Aug 2026 08:36:16 GMT",
-      "keywords": []
     },
     {
       "company": "빗썸코리아",
@@ -586,6 +929,17 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wY1VaMlRRdWROcm82bGFjWk9fWHZfUFpPcmVyUW1iVHlaQThERE5keDhoMDVzeGI1Z0otV3k1Z1RkbEN5NFItdzdGTS1VelUzZWsycTJoNjhIWDQ?oc=5",
       "source": "강원일보",
       "pubDate": "Thu, 20 Aug 2026 08:29:55 GMT",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "company": "더존비즈온",
+      "category": "IT 서비스",
+      "title": "더존비즈온·테크핀레이팅스·KAIST, 'AI 거래관계망 신용평가 모형' CIKM 논문 채택",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5NMVhNR0lYcl9GbVh0VXAyU0dCckJ0VDhqUFJFaDZxMnRoM3ducnhONXpXWlV4REJkclUyUXRFblU4V1NsZkZ4Y0UtbGtrMzhsRjM4TUgyanJfZUphdUhkU3c4TF9QaTgtam90QmhkenBsQlk?oc=5",
+      "source": "디지털투데이",
+      "pubDate": "Thu, 20 Aug 2026 08:27:27 GMT",
       "keywords": [
         "AI"
       ]
@@ -645,44 +999,15 @@
       "keywords": []
     },
     {
-      "company": "빗썸코리아",
-      "category": "디지털 금융",
-      "title": "[더밸류 브리핑] 오늘의 디지털·핀테크 소식...빗썸·NHN KCP",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFY3hjd1J6d1k5aXlBcUpRZVlHcTV3U1FuZ2QyNkxrVTR6aFZrc09yUXFhM2wtZ1lqMlo5enQ1d2ZuUFFISVprR2JUcldmNl9jb0czMw?oc=5",
-      "source": "더밸류뉴스",
-      "pubDate": "Thu, 20 Aug 2026 08:05:18 GMT",
-      "keywords": []
-    },
-    {
       "company": "컴투스",
       "category": "디지털 금융",
-      "title": "야구의 날 맞이, 컴투스 야구게임 '3종' 성장 혜택 제공",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tbXctblh3eWFkUVdLVFNCMkk3R0k4TTdMaUlVRnNpdG9PMmVpR0p1Wk43OG1TOTZoM0ltXzlSSi0tclVBdGlnWmJsRHFHdV9FNE44MDV2dUTSAVtBVV95cUxNQzBIQUs1cUEySzZhV3NkNEJ5SllqTG5sbzIxT3Z0SXJzUFEzRktJQ3YxdEFfT2Y1SXJnZWZSNlpKTlhYVy02VFpJbVJyaXpUeWlzZWFETHZkYVNn?oc=5",
-      "source": "게임메카",
-      "pubDate": "Thu, 20 Aug 2026 07:58:51 GMT",
+      "title": "컴투스, 야구 게임 3종…'야구의 날' 기념 이벤트 진행",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41eGY5NC1vNTFobWROU3ZITnFHUDNCZjg0U3dyZVZKZ1RmUXNPV3Z5dHlBVV9jcFA3SmRtUl9QZW1vZnlqVF9PVWJMdlpRcmhzckpxdFpfN05rMHg3R1dpeF9qdXNCQk8yVHRFMjZib9IBc0FVX3lxTE5EYWR6a25DM3VQNnV1bVJDSkNIYk9UUml1OTFMdzdmMzFvUGdQMzQ1bjJDN29UVVV6dFJnU2s3ZmNJWk5TVWpIR2hjcHBZdFNEeFlocFdVQUNsRHlYNkM2MW9RLWh2bm5ESGd4R2RwV21SUHM?oc=5",
+      "source": "데일리한국",
+      "pubDate": "Thu, 20 Aug 2026 07:55:41 GMT",
       "keywords": [
         "게임"
       ]
-    },
-    {
-      "company": "컴투스",
-      "category": "디지털 금융",
-      "title": "컴투스, ‘야구의 날’ 맞아 KBO 대표 야구 게임 총출동…기념 이벤트 전개",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xZkNxSnNrS25WYWp3TUNBVkN0dE0xRDRpdWx0T19uOEctUzhUelVSNWRVVThqMWhYaHduRUozanNlc0dOQmJyMWtSeTFHMk1MUkJaWkZQQTk?oc=5",
-      "source": "더트래커",
-      "pubDate": "Thu, 20 Aug 2026 07:56:45 GMT",
-      "keywords": [
-        "게임"
-      ]
-    },
-    {
-      "company": "카카오",
-      "category": "IT 서비스",
-      "title": "카카오뱅크 노조, 31일부터 5일간 총파업 - 조선비즈",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU3VNcHJ0cWRWOTBHekNEZHVJVFk4U3Zsb0I2NlZGdTNCcTZIYlpLeF9UZUtHai1QdXF4M2N6X2NYZDZLa0VKYURWeHFwUlZCUzdXc19vN3VrbmtIM2xWdTU0dnVXd2RTUkVTV21Sb3RMM0tfaTFqejFoQlVTbHZqb9IBlAFBVV95cUxQVVlCcTJWWkthMHQwUHdjb04zeFVhWVIzSXliaHNPbV9MSUt2cUNCNFplRU1YNkNTcDZlTFpLZ2lYS3BYRWRuZTR5R1hwZkUzREQxSzQwNlNYcFZRY21rTGFxWXNxbG9XOVBRRzFGYktMU0J6UTFvMDNRc0tsOUI1S2hHMzJHTGpYNWdUWTh3MVNZYWVO?oc=5",
-      "source": "Chosunbiz",
-      "pubDate": "Thu, 20 Aug 2026 07:56:00 GMT",
-      "keywords": []
     },
     {
       "company": "두나무",
@@ -727,15 +1052,6 @@
       ]
     },
     {
-      "company": "빗썸코리아",
-      "category": "디지털 금융",
-      "title": "빗썸, KB국민은행 앱 설치 없이도 계좌 개설 가능한 서비스 도입",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9VMjdVYmVtbmZOdDA2bmpwT0U4QXZETVp0Y3JBTG01VGtkbERDM1dEX194UmNaVHZ5SGpIS3lrNHJFZ1dqSjhibGZNTFFqNXZ4X2ZsWjhHajVZdlVqUlN0dEwyU09QNXkyV2llSHRHbW5XZlE?oc=5",
-      "source": "비즈니스포스트",
-      "pubDate": "Thu, 20 Aug 2026 07:32:05 GMT",
-      "keywords": []
-    },
-    {
       "company": "더존비즈온",
       "category": "IT 서비스",
       "title": "더존비즈온·테크핀레이팅스·KAIST, ‘AI 신용평가 모형’ 국제학술대회 CIKM 채택",
@@ -758,15 +1074,6 @@
       ]
     },
     {
-      "company": "LG CNS",
-      "category": "IT 서비스",
-      "title": "LG CNS, 타워팰리스에 사족보행 경비로봇...4분기 실제 운영",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5adUVDLXh4QS1NUEVFS1M5alprS2FZREkwRkRsNnQ5X2ZRRy1yTnhqYmN6MWpONkd5X0Q5T19jdWtfX2k1XzQ0dERseERJNGd4WmR4VVZUY1gzYU1yLWhIUGVUbS04dw?oc=5",
-      "source": "이로운넷",
-      "pubDate": "Thu, 20 Aug 2026 07:13:04 GMT",
-      "keywords": []
-    },
-    {
       "company": "더존비즈온",
       "category": "IT 서비스",
       "title": "더존비즈온, AI 신용평가 모형 CIKM 채택…ERP 데이터 가치 입증",
@@ -778,41 +1085,21 @@
       ]
     },
     {
+      "company": "네이버",
+      "category": "IT 서비스",
+      "title": "네이버 노조 “8년 개별교섭 끝내자”…전 계열사 통합교섭 공식 요구",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FSzlLYmhnVUpxcjQ4aWdNMGVYTlBscENtU3hfenUyQmdLT3ZGRVVkMVJ5enZuc29BOU9TblpESXlpY01MQzFVclg0c2pfVmY3SlJ5ZzlYaERlTXc?oc=5",
+      "source": "에너지경제신문",
+      "pubDate": "Thu, 20 Aug 2026 07:09:20 GMT",
+      "keywords": []
+    },
+    {
       "company": "코빗",
       "category": "디지털 금융",
       "title": "박현주, 26일 코빗 임직원과 첫 만남…‘미래에셋 3.0’ 비전 공유 By 알파경제 alphabiz",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Gd25zd0NfYVBxdnpUZXMybkpiWlg4bl9hS0JjODNMVVI1d3ZQaGRzVWhOc21OS0V6SzB6eEoxNGM0OEpOZ21SSnA1MXNDT0p1a1JwYm1DOVhxZ2FrU0o2bUFnVWpVaFplbDMyV0dhemU?oc=5",
       "source": "Investing.com 한국어",
       "pubDate": "Thu, 20 Aug 2026 07:09:00 GMT",
-      "keywords": []
-    },
-    {
-      "company": "카카오",
-      "category": "IT 서비스",
-      "title": "[테크스냅] 카카오, '카카오프렌즈X폼폼푸린' 굿즈 출시",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90R0dGcU9TOGxrcFlHYjJYd2EyZ0lxTFhfUHR3SWZ2TTd4LXJQaVJROWRHM1A4cjdlX0dTaG5oZENUeDAtVmdydWpXUFlTMUE?oc=5",
-      "source": "v.daum.net",
-      "pubDate": "Thu, 20 Aug 2026 07:07:52 GMT",
-      "keywords": [
-        "신제품·출시"
-      ]
-    },
-    {
-      "company": "컴투스",
-      "category": "디지털 금융",
-      "title": "컴투스 야구 라인업 3종, 8월 23일 야구의 날 기념 이벤트 개최",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50RjdvSGRsVVY5WmRjbHN3dlVhVzBHYVBpcDBUQnFBcVA2RUxrWmtZOW9yX2NIdWFKUEZHU0ExMUtiSGJBNl9VYkdLLUtoU2hzY3ppMFNTWWJjZGk4TzlpXzRWVTVONVZ2U3hORw?oc=5",
-      "source": "경향게임스",
-      "pubDate": "Thu, 20 Aug 2026 07:06:02 GMT",
-      "keywords": []
-    },
-    {
-      "company": "LG CNS",
-      "category": "IT 서비스",
-      "title": "[르포] 단차 넘고 사람 피하고…타워팰리스 순찰 나선 LG CNS 사족보행 로봇",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHZzltcmZjVWNZZENDeDJBRUhpdExEdjBwMXFRUWxCRklvbi1oNUhhLU93emNIZ3IxUUx4ZzNSWTZVaWJuWlEtRURHeS1XbDJ3VkxjUTNtMXVEUdIBWEFVX3lxTE9Xc1IwV2JZZjNsOTdHdGtrdHpXQ01RbjJjci1VMEVMekF2X3NkQjJEakFTXzY1enNNX2pIZ3ctSWhRTlgxYk5NTnlySGpjb1JLQUEwLUpxTHA?oc=5",
-      "source": "아주경제",
-      "pubDate": "Thu, 20 Aug 2026 07:00:48 GMT",
       "keywords": []
     },
     {
@@ -827,21 +1114,21 @@
       ]
     },
     {
+      "company": "토스",
+      "category": "디지털 금융",
+      "title": "공장 멈춘 HL만도, 셀토스 제동부품 외주 논란…기아도 당혹",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jajNLSjZDTjh3MllITzVsbU9kM04wb0xoRXZCV29GWEZmQ1JIRnp0TmdJY3lyZW12bmxmdWlUR0E1Yllyckk0alB1bWVXeHp6LU9NY2x3?oc=5",
+      "source": "지디넷코리아",
+      "pubDate": "Thu, 20 Aug 2026 06:37:31 GMT",
+      "keywords": []
+    },
+    {
       "company": "KT",
       "category": "IT 서비스",
       "title": "‘AX 전문기업’ 속도 내는 KT, 스타트업과 새 먹거리 찾는다",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5icGZMdFNQVEF4VFVhQVlvYUJNYlBVTDB1RmQ5VmZGYnpzem9MTkRzLUhtV0NVcFliODNfQmhLQmlTb3JmQ3ltZGNYTEZIMzhHcEE?oc=5",
       "source": "서울경제",
       "pubDate": "Thu, 20 Aug 2026 06:35:17 GMT",
-      "keywords": []
-    },
-    {
-      "company": "KT",
-      "category": "IT 서비스",
-      "title": "KT, 스타트업 16곳과 AX 사업 발굴 추진",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02cnJRd0tfUVllTUczbUJRaTJfQl9Nd3liMV9IVTloSWFBOHJYakpXUlJGTkxvaEVUWkdWRFZlWDVqcXFwSVo2UUZJM3dnZ0E?oc=5",
-      "source": "v.daum.net",
-      "pubDate": "Thu, 20 Aug 2026 06:30:39 GMT",
       "keywords": []
     },
     {
@@ -857,35 +1144,6 @@
       ]
     },
     {
-      "company": "네이버",
-      "category": "IT 서비스",
-      "title": "네이버 노조, '통합교섭' 공식 요구…IT 노사관계 변수로 부상",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45YXRlQ0NHaVJqT1M0NUtVamlSSldlNkdtNEZCdFVEemJHSFpTQll1Uy15b1ZOMVNISWw2bHZESHlnZDdlMjRJY0RSNUp4dw?oc=5",
-      "source": "전자신문",
-      "pubDate": "Thu, 20 Aug 2026 06:27:00 GMT",
-      "keywords": []
-    },
-    {
-      "company": "LG CNS",
-      "category": "IT 서비스",
-      "title": "[웰컴 :) AI 태블로⑤] LG CNS의 픽은? \"구매 조직 협상력, 데이터의 연결\"",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tTGo2VXU0SWptSzladF9tSTFXUmNRRU0yQU4tUm9JNHF4SmJUd2hBYmU0RlpTbWZGYWpmaUswTzlfcFhmelNZNHlERnJlSFk3eTBjaTBnMzJ5NUpVU3p1TzZrWFlsM3NpMFNXRQ?oc=5",
-      "source": "ER 이코노믹리뷰",
-      "pubDate": "Thu, 20 Aug 2026 06:26:50 GMT",
-      "keywords": [
-        "AI"
-      ]
-    },
-    {
-      "company": "네이버클라우드",
-      "category": "IT 서비스",
-      "title": "사우디, '팀네이버 디지털트윈 플랫폼' 국가 표준 채택",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SUVlXeGVhaVJsU3JSemNhaTBXWVVxQklsd2hiNWVmVmFYQnB0N20yaklFa3FLOG5keTRDdktmTVBnRUprUm94NkdTd0JTbWJoWDJvaDNLZmF4b1ljbW9lbHBCSkhOaVRhT0VKWlE3RQ?oc=5",
-      "source": "이코리아",
-      "pubDate": "Thu, 20 Aug 2026 06:18:50 GMT",
-      "keywords": []
-    },
-    {
       "company": "토스",
       "category": "디지털 금융",
       "title": "'뛰는' 카카오증권, '나는' 토스증권…더 벌어지는 핀테크 증권사 실적격차",
@@ -894,28 +1152,6 @@
       "pubDate": "Thu, 20 Aug 2026 06:16:00 GMT",
       "keywords": [
         "실적"
-      ]
-    },
-    {
-      "company": "카카오",
-      "category": "IT 서비스",
-      "title": "주인 바뀐 카카오게임즈, 신작 '도깨비의세계' 사전등록…세계서 통할까 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aWGVTdnFpcmhOY2MxVFl6MEpSaE9WYnh1cWNVLW5WZnBVd0NnTVRJSkV0RU5iODdvOUIxVmVzb1Q0LTJCd2NORzNvOGNVM1hwLUtCWlJoYkFrMC1rdjhjeHNSa2g2RknSAWxBVV95cUxPdkpVWEU1cG8tOTZ0WmNuajhFcmJyRGRQVUxETGM2SFk2eE9rQmZzNTVxbFg0WHgtMXRoSHZldkxOUWlncm1pOExwZHMyb3JWRTN2eTRKUXhjbkN6Nm45OU0yQmthb2lfcGloekU?oc=5",
-      "source": "머니투데이",
-      "pubDate": "Thu, 20 Aug 2026 06:10:42 GMT",
-      "keywords": [
-        "게임"
-      ]
-    },
-    {
-      "company": "컴투스",
-      "category": "디지털 금융",
-      "title": "컴투스, '야구의 날' 맞아 KBO 게임 3종 이벤트",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUkR1ZE9BMTZkMlhhSkhjY1VOX0VqOHFMd2p2VDU3czFGNkdCSm1XaXBqSmJUOTA3RUs3M0Z2ZWhQaXJGY3UzdDlISUp5QUxKVkhhX21jbm5ON1FXRlY4cmxyaXEwQnF6X1NQRG1oR1hQY2xnbXZXcktxN29FUnBUbHBKOWQ?oc=5",
-      "source": "스포츠조선",
-      "pubDate": "Thu, 20 Aug 2026 06:07:08 GMT",
-      "keywords": [
-        "게임"
       ]
     },
     {
@@ -939,17 +1175,6 @@
       ]
     },
     {
-      "company": "카카오",
-      "category": "IT 서비스",
-      "title": "카카오프렌즈, 산리오 폼폼푸린과 협업 상품 13종 출시",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLX1FZVEdVNzgwV2tlcWJ3eGx5MGJZNU12ZFY5WnZhSXM0UG1BTkFucHZ0d0c4RDFnU3ZTN25mS1BZZjItUldrdlJNUk9oQQ?oc=5",
-      "source": "전자신문",
-      "pubDate": "Thu, 20 Aug 2026 05:43:26 GMT",
-      "keywords": [
-        "신제품·출시"
-      ]
-    },
-    {
       "company": "두나무",
       "category": "디지털 금융",
       "title": "두나무, 미국 SEC 등과 수차례 접촉…사업 가능성 논의",
@@ -965,15 +1190,6 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6MzFGYTZxMXBQYV93Z0hNdThkajZiTmdJNnBPeldVU0Z5SzdFSHpRcnpDRzh6bXRLNEhINVpQYjlkd29hWkxaU0RvaTdoQTQ?oc=5",
       "source": "v.daum.net",
       "pubDate": "Thu, 20 Aug 2026 05:35:09 GMT",
-      "keywords": []
-    },
-    {
-      "company": "네이버클라우드",
-      "category": "IT 서비스",
-      "title": "네이버 디지털트윈 플랫폼, 사우디 ‘국가 표준’ 채택",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hYVRYaUZoOFA1R3JVUUc2aFVFMXdYajZEZU5iYXR5QTBKbzUtUTc2UDBnTDgtQlBqV0REdm5NX1A4ZENSejk2bHc0ek1UbXN4ZGhfVlEzZy1XbDk5NzNiTGpuT1pub2RM?oc=5",
-      "source": "아이티데일리",
-      "pubDate": "Thu, 20 Aug 2026 05:28:12 GMT",
       "keywords": []
     },
     {
@@ -1008,37 +1224,15 @@
       "keywords": []
     },
     {
-      "company": "카카오",
+      "company": "네이버",
       "category": "IT 서비스",
-      "title": "카카오게임즈, '도깨비의세계' 10월 출시…사전 등록 시작",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HcE90ZzM3M1NkTkp1c3VobTNuamo4OFhOb05ib0JMNlB2b0h0UGhQTkw1QTVqUVgyTndPMGxsSjVIVENnUnNIbWJiSEpGMzU2ZjJzQkRuaERHZ2vSAWBBVV95cUxObHZJZUJ2SXdBMFBGazlOeDdlZEU3bUUtY1JFV1YwU0YwOWtPVk1CS3dGbmJONnVvN2NxcFpaZVpSbFA0dFoxWGhrc1l2RW45Wno3bzRGM09LUkE3UllsQVo?oc=5",
-      "source": "연합뉴스",
-      "pubDate": "Thu, 20 Aug 2026 05:08:37 GMT",
+      "title": "팀네이버 클라우드 디지털트윈 플랫폼, 사우디 지자체 표준으로 승인",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ubWtTQ1VBd0E0czEtVW9xV3p2SGNoTEppVEIzak1oRnBqQWZPajFSOWk2WUxTcEFpSVgtUkVnV3FzUXZ2TWtCVlF3NEt0RjJELWFKbmFYbzd0TmJpQXlpX29uZ1N4TlpfRk1vd3JBRmnSAXRBVV95cUxPSjBhN0FEYzdOeVg5ZWdmc0ZQR1l5NHZvS0hwdTZtZGJ6ZTZpRExPQTVlWWpMY2JRRlJHZWk3TmZ0bUtTallrSEdQS1FuVElDeHNaR2UxMEk1SDRFOTNpRGtCbVZtbU1raDd4dVZTUDR6c1RPRw?oc=5",
+      "source": "IT조선",
+      "pubDate": "Thu, 20 Aug 2026 04:49:56 GMT",
       "keywords": [
-        "신제품·출시",
-        "게임"
+        "클라우드"
       ]
-    },
-    {
-      "company": "삼성SDS",
-      "category": "IT 서비스",
-      "title": "AI 에이전트 시대, AI-Ready 뱅킹의 조건 | 인사이트리포트 | 삼성SDS",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMExjVFpRWjVmRFlEdGczNDI1a2VYdG5GZnZPU2x3OHpMRUlUalF2ckRKMFlNc1RFSFJSYi1HUUFQREFwUGpLYWtmekJZWGFHNWhaNmQ1OTN3aEptX0hFaXZUdVRHNWpSbUNxQ0U4bV9yS3Z3S1NZb1ZlUmNOQVNFMmpaVQ?oc=5",
-      "source": "Samsung SDS America",
-      "pubDate": "Thu, 20 Aug 2026 05:07:29 GMT",
-      "keywords": [
-        "AI",
-        "채용·조직"
-      ]
-    },
-    {
-      "company": "카카오",
-      "category": "IT 서비스",
-      "title": "카카오뱅크 노조, 31일부터 5일간 총파업",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE94WWhFeWM1eFZCaXZRbl9QXy0xSjRCRFNsdXlKVWRmWjkyOGlOWmk1NjAzNjRSaFVreGI4LVZpMzc2eFRabFZFNDMyMjVlZw?oc=5",
-      "source": "전자신문",
-      "pubDate": "Thu, 20 Aug 2026 04:51:37 GMT",
-      "keywords": []
     },
     {
       "company": "네이버클라우드",
@@ -1075,41 +1269,6 @@
       ]
     },
     {
-      "company": "컴투스",
-      "category": "디지털 금융",
-      "title": "컴투스, ‘야구의 날’ 맞아 야구 게임 3종 이벤트 진행",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTYlhsMjNVcVhURlp2THRrT0Q4WjY2T0NISkRzNk5sNnhEY0JWcEZRbERZTmFra3NiYl9qWWU1S2NMWkpDeG9RREVKNlFMeWZoak1vMndicnRneVctTjByVGc2OXc?oc=5",
-      "source": "서울경제TV",
-      "pubDate": "Thu, 20 Aug 2026 04:41:54 GMT",
-      "keywords": [
-        "게임"
-      ]
-    },
-    {
-      "company": "컴투스",
-      "category": "디지털 금융",
-      "title": "“24시간 사냥하고 길드 호출”… 컴투스 ‘제우스’ AI 시스템 공개",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VT29NWHhOb3NJa3R1UzNFeHA2Q3BHTEZuZ0RWX2IxY2wzZzB0dmxuZXNQdW9TM2F4ZTU2XzRESERCd3dtbEltRmNvU2ZvVzlPTlBFSFl0MDhzRTZQc0pDRXJHN1F6c0JPSGc?oc=5",
-      "source": "천지일보",
-      "pubDate": "Thu, 20 Aug 2026 04:38:31 GMT",
-      "keywords": [
-        "AI",
-        "신제품·출시"
-      ]
-    },
-    {
-      "company": "빗썸코리아",
-      "category": "디지털 금융",
-      "title": "“가상자산 거래 위축”…두나무·빗썸, 동반 실적부진",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yRHJJQVpzRldGTnNBcElFMWhNZWJRaFo3VTRfcWRyOGJnb0J3MHItaUw2VUNhYWgzSS1NUE5yeDlJbVptc3FnXzhVZWNydElMc0V2Qzl2eTQzUjN5UlpGMmppT1dEa3BIMkw2UEpOdw?oc=5",
-      "source": "뉴스톱",
-      "pubDate": "Thu, 20 Aug 2026 04:35:45 GMT",
-      "keywords": [
-        "실적",
-        "디지털자산"
-      ]
-    },
-    {
       "company": "NHN",
       "category": "IT 서비스",
       "title": "NHN KCP, 라인 넥스트와 디지털지갑 연동",
@@ -1117,19 +1276,6 @@
       "source": "뉴스타운",
       "pubDate": "Thu, 20 Aug 2026 04:22:05 GMT",
       "keywords": []
-    },
-    {
-      "company": "NHN",
-      "category": "IT 서비스",
-      "title": "NHN KCP, '유니파이 페이' 스테이블코인 결제수단 추가",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE93TVVsY1ZFOVByd3JsdG5jMU5JNGpRMmp5dFNTV0FERFFjUkJTZ1lBaUZGQ1VISm9UeVNUVkJEUUZveTVCVU1DQ2FUQzAyZw?oc=5",
-      "source": "전자신문",
-      "pubDate": "Thu, 20 Aug 2026 04:21:28 GMT",
-      "keywords": [
-        "스테이블코인",
-        "디지털자산",
-        "결제·페이"
-      ]
     },
     {
       "company": "KT",
@@ -1163,15 +1309,6 @@
       ]
     },
     {
-      "company": "LG CNS",
-      "category": "IT 서비스",
-      "title": "LG CNS 경비로봇, 타워팰리스 지킨다",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBR0VobG96d3IwVktUMVFrVnVyaEVOSWphNU4xOVpHNl84OEFJU3ZTUVRaamlQZFI3X04xcXNDaXAwODk3NFlEYzVOZkVtUmk2?oc=5",
-      "source": "문화일보",
-      "pubDate": "Thu, 20 Aug 2026 03:06:37 GMT",
-      "keywords": []
-    },
-    {
       "company": "코빗",
       "category": "디지털 금융",
       "title": "특금법 시행에 대주주도 경쟁력…가상자산업계 변수 '코빗'",
@@ -1183,12 +1320,12 @@
       ]
     },
     {
-      "company": "카카오",
-      "category": "IT 서비스",
-      "title": "[단독]이인 전 네오플 대표, 카카오게임즈 게임프로덕션본부장 선임",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDZzNPVWpfTDlqeTBQMXVENFhyclBlSTFMM0ozbWZGR3RySjA0ekhMRUdlcng0Wl9EOFMzNUNYVFpuSmV2WFJvX0ZtWXpYUS1fOGpDdExWYnluYk51ZjY4VjdzUnA?oc=5",
-      "source": "MTN 머니투데이방송",
-      "pubDate": "Thu, 20 Aug 2026 02:45:08 GMT",
+      "company": "컴투스",
+      "category": "디지털 금융",
+      "title": "컴투스, 8월 23일 '야구의 날' 맞아 KBO 야구 게임 3종 이벤트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41Mnp3M1JlMmg5Tmg2enEwcWpvV1ZGdmFINWJwMXFJdmRSdWpYRWVkdDlxRW0wUkUzWWk0a05sU0Nmd0Zna1JTa2k0TG03S2hBai1SalNOZmFJMTAzbWM0WA?oc=5",
+      "source": "네이트",
+      "pubDate": "Thu, 20 Aug 2026 02:46:00 GMT",
       "keywords": [
         "게임"
       ]
@@ -1203,15 +1340,6 @@
       "keywords": []
     },
     {
-      "company": "LG CNS",
-      "category": "IT 서비스",
-      "title": "“아파트 순찰하는 로봇”…LG CNS, 사족보행 ‘경비 로봇’ 검증 진행",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2Z3hUbEFReDAyV21yU09qelN6cnJQc2s3TUtnRzBJdFE5U1RPNFdFTWlqSGNSdmNHNVBNaWFRNUg5Y2ZVVE9QSUJsdkl6QWM2QUFnM3hzNGtWUdIBX0FVX3lxTE9Ddkc5U1RNVXl4NzlzcWFoTzlvS2RfWkxHUXR6SXBtZTBXS1pfMlpYdGtVSmNCdnhiYjBuLXprd2EzNW8zdHVPVTd6al9GZ1pxQkkwZWk3Wll6Q241ZVFJ?oc=5",
-      "source": "경향신문",
-      "pubDate": "Thu, 20 Aug 2026 02:38:00 GMT",
-      "keywords": []
-    },
-    {
       "company": "NHN",
       "category": "IT 서비스",
       "title": "NHN벅스, 큐레이션 영역 확대...개인 맞춤형 음악 추천도 강화",
@@ -1221,23 +1349,12 @@
       "keywords": []
     },
     {
-      "company": "카카오페이",
-      "category": "디지털 금융",
-      "title": "카카오페이 ‘페이-득’, 결제 전환율 19.4%",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iZnZ1Sm55MFlYelowM3A0NVNITDZ4Z3RrQldqNDJHSmtZUm82Nm9hNkd1ZUtGRGdHenF0S2F3dWZFNzd6WVhVSFYyd09jemhZZ0ZRZzdfWjFxN1lhSHpzUFRTZ3M?oc=5",
-      "source": "서울경제TV",
-      "pubDate": "Thu, 20 Aug 2026 02:01:11 GMT",
-      "keywords": [
-        "결제·페이"
-      ]
-    },
-    {
-      "company": "네이버",
+      "company": "KT",
       "category": "IT 서비스",
-      "title": "\"사우디 도시계획은 네이버 플랫폼으로\"…사우디 '국가 표준' 됐다 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14UDd0a1FFS2NoYUlES0oxc0dkT1ZkZUJuMTMtOTZudk9VaFhUR3E5TXpmNU8tSV9XbWY0dkFKbG9RaEdRbXFXUnZYZWFUN01NcGo3czdZMWhyTmp1ZWRfYldCY3BmYWPSAWxBVV95cUxQX1huaVpZY241SjBfWWtWbjNwZE01T05tVVRiaVNPSlhKWkxnTnJKVUdOeGVZTVZ2UnhWUEY3a1NPbXVkaXpSeVlYZzJWU2JncG5WeHRRUmVSelhVN2VwdW5KMFBxYUpJOENRZk0?oc=5",
-      "source": "머니투데이",
-      "pubDate": "Thu, 20 Aug 2026 01:53:44 GMT",
+      "title": "KT희망나눔인상에 ‘대학으로 잇다’·안성규 ‘드림스폰’ 대표",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oU2ZQSUMwX2JqcUI0N3J3eDAzelI1RFNfcWlsdjQ4ZDBLSVNkOFpZcUVNSVBYOWFXbUFDSTZvcFFBWVV0bzFIT3VIbENRQzNmQ0NQNUJR?oc=5",
+      "source": "지디넷코리아",
+      "pubDate": "Thu, 20 Aug 2026 02:09:22 GMT",
       "keywords": []
     },
     {
@@ -1273,15 +1390,13 @@
       ]
     },
     {
-      "company": "두나무",
-      "category": "디지털 금융",
-      "title": "’실적 80% 급감’ 두나무, 송치형 회장 급여는 5% 올랐다 By 알파경제 alphabiz",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CU3N3NWJRQmRlUldtVy1sU0E5aElMVGs2YXNTdld4WlM1YXlhMDNmWnBkalF6YzROTDdNeW9MSjBOaHF1MlJNQVFIaXdxdkxJNlh0NTN5a3I3U21maHBLVTl2cndHY24xZ3hHYmVVVUs?oc=5",
-      "source": "Investing.com 한국어",
-      "pubDate": "Thu, 20 Aug 2026 01:18:00 GMT",
-      "keywords": [
-        "실적"
-      ]
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "title": "LG CNS, 타워팰리스에 경비로봇 도입…로봇이 아파트 순찰",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JWkFyTTBteXBQYVBPR2VBbzcySTBMS05fWEpIWDZaYkowd3NaTlZDZzhkOVp3UDZmZU5XQVRHcElVUF9XZVRzcW0ycWM2VnpPT1cydkZUckJfUdIBWEFVX3lxTE5CbEpsdXpqaWhaNHhQTkI0V0hOT0VQdEdFOWwwYkhIaXhYTUdpTXlobWtQRDJGWWJiR2VwU2llRzlPMl9NNnptTG1oY2R2akdpRlEwYnRPZ28?oc=5",
+      "source": "아주경제",
+      "pubDate": "Thu, 20 Aug 2026 01:07:46 GMT",
+      "keywords": []
     },
     {
       "company": "NHN",
@@ -1313,32 +1428,12 @@
       ]
     },
     {
-      "company": "카카오페이",
-      "category": "디지털 금융",
-      "title": "[특징주]카카오페이, 트럼프 ‘클래리티법’ 통과 촉구에 10%대 급등",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uN0xtSlRXWmJtN21fRFBMV0pkZUV4ZTlLQko2d3VjSlJJVzlDNEEwUW5RQ3F2cEdNUzZHQ1UwdTgyMlVfQWs0amM0TGdTT0tyWnAwaWkxUUVZNGUxSGZKOVhJM2FxLWFwWDc4X9IBcEFVX3lxTFBPak9yb2tsTVRuck9GWW1BdjBpazBwSm5NNll6Z2FjazZBM0ZQNG9jVFVSeDdkTGZSaGo2NzFwR0czUkpxeFpPQ1EzSzB4ZllGVDRyejh6UHE1eGlRWWZBb2dGQmF6YU9aWlVpQXZJMnY?oc=5",
-      "source": "남도일보",
-      "pubDate": "Thu, 20 Aug 2026 01:06:00 GMT",
-      "keywords": [
-        "결제·페이"
-      ]
-    },
-    {
       "company": "LG CNS",
       "category": "IT 서비스",
       "title": "\"로봇개가 타워팰리스 순찰\"…LG CNS, 사는 곳에서도 로봇 서비스 |",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJeGtJMzlSVndEaHpKc0lzVmVVeFFRWV9BQmJiQ3lsNVNGc2tBZG5OZ24zbUhGUWNKX1V3RXRVdXRvNWhkM2o4U29yRG5KV1kyVGxWcjNlb1otWVZZZnhEb1NFbnM2OFRDWHZ2c0RjemdzY0M2?oc=5",
       "source": "연합인포맥스",
       "pubDate": "Thu, 20 Aug 2026 01:05:40 GMT",
-      "keywords": []
-    },
-    {
-      "company": "LG CNS",
-      "category": "IT 서비스",
-      "title": "LG CNS, 강남 타워팰리스에 경비로봇 도입… “로봇이 아파트 순찰” - 조선비즈",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSlV5clk0WGFXWU9YMHNGRzQ2aFhjbWRMbmpJNnA3dnh4V1hUYm9ZTkJKaE1xbjBGNUR6LXJndVBOYk9OalJMVnphbkFKUWFqc2g3ZFhCZmwxbDA2UHlzMEtxdEtfaFJUQ1F5cmlrZmU4VnBFa1c2eFVqRlROTURRd2xn0gGWAUFVX3lxTE5vdWdUTUdLT2RwcW1wcHFLTy11VWJSWnV1aWlLcVpyUUh3cFF5M01OWVZYaFRjaGxSUkNTWFk1bHI1SktXTjRtTW1YV2RrSTEyd0p2WUJxeEFIWE1xaE9yNEJNMUNiZHAzS0tTRVhKQmpxelBDQm1CMWlVOHBoUGIwMWVTNFptVmdycTNoYzlvN25TOVc2Zw?oc=5",
-      "source": "Chosunbiz",
-      "pubDate": "Thu, 20 Aug 2026 01:04:42 GMT",
       "keywords": []
     },
     {
@@ -1353,15 +1448,13 @@
       ]
     },
     {
-      "company": "컴투스",
-      "category": "디지털 금융",
-      "title": "\"장비·스킬 현금 판매 없다\"…컴투스 '제우스: 오만의 신', AI 모드로 차별화",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrTEZBbTZSd2Vsa3hpMDNNRjBMTkk4Wk5FVFY4cExYOEpnc2d1VXMxRFlEd2thR0E5bXNqcERxdnZPbkpCcXFPMGNxdWkwRjh3SmN3YUtTWkFBUF9GV2k0VnZucVotN00?oc=5",
-      "source": "청년일보",
-      "pubDate": "Thu, 20 Aug 2026 01:00:00 GMT",
-      "keywords": [
-        "AI"
-      ]
+      "company": "LG CNS",
+      "category": "IT 서비스",
+      "title": "\"로봇개가 아파트 순찰\"…LG CNS, 타워팰리스에 경비로봇 투입",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9mWjFsSW5RamlkSmdZZ012aF8tY3lmaGhyX0dBdFMyS0VFbXBxZE1GaU56eXlBMGgtNkctc1ZFLXhoMjlLWmc?oc=5",
+      "source": "v.daum.net",
+      "pubDate": "Thu, 20 Aug 2026 01:00:02 GMT",
+      "keywords": []
     },
     {
       "company": "토스",
@@ -1371,26 +1464,6 @@
       "source": "연합뉴스",
       "pubDate": "Thu, 20 Aug 2026 00:54:36 GMT",
       "keywords": []
-    },
-    {
-      "company": "네이버",
-      "category": "IT 서비스",
-      "title": "팀네이버 디지털트윈 플랫폼, 사우디 ‘국가 표준’으로 채택",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sSUNoN01qTnBZU09qYkFraVBSX1l2T1ZiTXNteXphX2tpcEszd2ZfejBRcVRSTW1ZdUVzYU9CNi1tcVV3QXUtaG5adjZ3Z1RGWEJqWUM5OFhRdw?oc=5",
-      "source": "브릿지경제",
-      "pubDate": "Thu, 20 Aug 2026 00:54:00 GMT",
-      "keywords": []
-    },
-    {
-      "company": "카카오",
-      "category": "IT 서비스",
-      "title": "카카오, 카카오프렌즈 X 폼폼푸린 콜라보레이션 굿즈 출시",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UWWpmQnpSMHFDNWhtS1JLb0JJVWxBd0hEQy1RVFR6czdVTnNLOVhLcXBaZkdNS2YwZUkzNTFyREdhd3pFMzVOTGpmSDFzclFLR0dxU0tn?oc=5",
-      "source": "카카오",
-      "pubDate": "Thu, 20 Aug 2026 00:53:35 GMT",
-      "keywords": [
-        "신제품·출시"
-      ]
     },
     {
       "company": "컴투스",
@@ -1413,25 +1486,12 @@
       ]
     },
     {
-      "company": "카카오페이",
-      "category": "디지털 금융",
-      "title": "[특징주] 트럼프 ‘클래리티법’ 통과 촉구에 스테이블코인주 급등⋯카카오페이ㆍ헥토파이낸셜ㆍ다날 등",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0clNZQWZ2OGRFaEdWTzZ3bnp3b19GMXBIN2ctZk9DeU1tekgwN0NYWkw5R3FCeDBabFlnS2dlc3V1OHBYT0NuaTc5VTdmdUk5OHowaw?oc=5",
-      "source": "이투데이",
-      "pubDate": "Thu, 20 Aug 2026 00:22:00 GMT",
-      "keywords": [
-        "스테이블코인",
-        "디지털자산",
-        "결제·페이"
-      ]
-    },
-    {
       "company": "네이버",
       "category": "IT 서비스",
-      "title": "네이버 디지털트윈 플랫폼, 사우디 ‘국가 표준’ 됐다…지자체 우선 도입",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5bUE5VHBjVzNPRkZBUldieVF0Y0hkbFY0T3RkN1dSWWJJLWJ1OHZlV1d3WlYxNjBrWTlRV1dkblQ2Szk2dGVnbGh2Y19wNjg?oc=5",
-      "source": "v.daum.net",
-      "pubDate": "Thu, 20 Aug 2026 00:17:58 GMT",
+      "title": "팀네이버 디지털트윈 플랫폼, 사우디 ‘국가 표준’으로 채택",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5TmlabDFhMVFqa2gxdFRtNEFhemlKaU1jVmNoVzhHYVR2aEdQOXF2QjR1bkVkY0pXTlJzQzh2SGhjU3JLTDUySzJPSVBybnF1dzNlY0tWdGFSVl85NjZ2bTdtMHVvSW9CV2FxdEJGSklvdw?oc=5",
+      "source": "NAVERCorp.",
+      "pubDate": "Thu, 20 Aug 2026 00:22:09 GMT",
       "keywords": []
     },
     {
@@ -1444,15 +1504,6 @@
       "keywords": [
         "AI"
       ]
-    },
-    {
-      "company": "네이버",
-      "category": "IT 서비스",
-      "title": "“엔비디아 핵심 전진기지”…네이버, 증권가서 목표주가 40만원 유지",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90YWlYYmhOTV9WVHlPRkdSX2tEVVhaRTZWX1NFb2ZQS2ZwejA2NGZNdnczRzFpTmd3dEh5cmlTQV9oUmlGYkZFeDBPMVFuTDdtUmc?oc=5",
-      "source": "매일경제 마켓",
-      "pubDate": "Wed, 19 Aug 2026 23:59:51 GMT",
-      "keywords": []
     },
     {
       "company": "네이버",
@@ -1488,17 +1539,6 @@
       ]
     },
     {
-      "company": "두나무",
-      "category": "디지털 금융",
-      "title": "코인 한파에 상반된 전략…두나무 '확장'·빗썸 '긴축'",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XTUk4MVlMTE5tZDRzUlJ0RDltSnhQUzBKU2Q5UmxlX1d0TWhSdVQtaUVhM1JrcUdaOHI4SWNjcmNuRko5TDBPOTVqdkxhamRHWTY4?oc=5",
-      "source": "네이트",
-      "pubDate": "Wed, 19 Aug 2026 20:57:00 GMT",
-      "keywords": [
-        "디지털자산"
-      ]
-    },
-    {
       "company": "코인원",
       "category": "디지털 금융",
       "title": "[업데이트 노트] 코인원 회원가입 개편",
@@ -1510,15 +1550,6 @@
       ]
     },
     {
-      "company": "KT",
-      "category": "IT 서비스",
-      "title": "삼성, ‘7타점’ 전병우 폭발… 선두 KT 턱밑 추격",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNTJOMlR1bXhKNnVmeHZpTjFOeFZNOUlFOS05WEZNZTdmaUVDQ0VYbnVlS2tvZGZIY0NYYURnVmZzV3ZoQzJNV0VrV1kxWFFITEp6Y00wTVdlcVZBWEl4MVV2cVRNa21OYnRRMTNOallTYWlLdndBVWRfZmhSc2pUWnhvVQ?oc=5",
-      "source": "조선일보",
-      "pubDate": "Wed, 19 Aug 2026 13:32:00 GMT",
-      "keywords": []
-    },
-    {
       "company": "코빗",
       "category": "디지털 금융",
       "title": "[분석] '미래에셋 3.0' 퍼즐 완성단계…“코빗 품고 디지털금융 선두로”",
@@ -1528,15 +1559,25 @@
       "keywords": []
     },
     {
-      "company": "컴투스",
-      "category": "디지털 금융",
-      "title": "컴투스엔, 소수계좌 거래집중으로 투자주의종목 지정",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kRmlHVUVnZHBFOHdfellQVGxkQ3FubTJlX3l4eUVkMEU2TXJPalRYRXNxQjJPTlktTFZVaEFyUkVQa3Y2VGpyR2JvVlk0N0RNYkczRjdvQzVqSE5YbXZuRkh2S0d6cldkSm9JaXhfSU00UQ?oc=5",
-      "source": "톱스타뉴스",
-      "pubDate": "Wed, 19 Aug 2026 11:15:05 GMT",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "title": "AI 시대, PLM은 어떻게 진화해야 하는가 | 인사이트리포트 | 삼성SDS",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FcDZWWDc0X1lBSjZ5cm9QRTFOQ1lSS3VGYXdhMXM2WUpmaU53c0JCaHM5bEJtR3E4RTM4U3VvUktlUmszaTM0Rl9nR1lZeWNHclRVcDRzM0NvZzB1UUVmNWZhUVFRaHRtYW1DQjRiOUdiOHhkMW8ybWZwaw?oc=5",
+      "source": "Samsung SDS America",
+      "pubDate": "Wed, 19 Aug 2026 10:44:43 GMT",
       "keywords": [
-        "투자·인수"
+        "AI",
+        "채용·조직"
       ]
+    },
+    {
+      "company": "두나무",
+      "category": "디지털 금융",
+      "title": "두나무 'UDC', 8년 만에 멈춘다…\"다음 도약 위한 재정비\"",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ReXI1VjFsbEJ1bE42c0ZMQnNTNWRFNlJvT2xHV0dES0VkcDRCblQ4S3VxTkd6TW9JUG1TNy1kdjVhNm1GNFVqWTc4bTFfOTYxcDlz?oc=5",
+      "source": "네이트",
+      "pubDate": "Wed, 19 Aug 2026 09:24:00 GMT",
+      "keywords": []
     },
     {
       "company": "삼성SDS",
@@ -1558,17 +1599,6 @@
       "source": "파이낸셜리뷰",
       "pubDate": "Wed, 19 Aug 2026 08:34:09 GMT",
       "keywords": []
-    },
-    {
-      "company": "토스",
-      "category": "디지털 금융",
-      "title": "비바리퍼블리카, 토스 앱으로 해킹 차단…화이트해커 활용해 보안 강화",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xOUZqQmhGNUdlUFFraWdidE5CTEZDdEpKWlBtNU9tYlhnM0w3NUpaN3NKWlYydm5kd2laTFpodzlBQk10cmxPOFlNWTNUVHQ5NVIyNndabzBLUQ?oc=5",
-      "source": "한국경제",
-      "pubDate": "Wed, 19 Aug 2026 08:21:33 GMT",
-      "keywords": [
-        "보안·해킹"
-      ]
     },
     {
       "company": "코인원",
@@ -1614,17 +1644,6 @@
       ]
     },
     {
-      "company": "코인원",
-      "category": "디지털 금융",
-      "title": "법인계좌 미지원 변수 넘었다…코인원, 결국 카카오뱅크 다시 택했다",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GOXN0MUF2ZWpNS1ZuMVFOQ09UTDRZSFpKbmRsb3h1NTI4X2R5MmowaWdBQ2V5dkU0dC1ndHphTjhCM0NtUTJIRXB6UHI2R3BkOWY3TGRzeEgzbGVUWmdPME1JbFN0eVYx?oc=5",
-      "source": "녹색경제신문",
-      "pubDate": "Wed, 19 Aug 2026 05:40:08 GMT",
-      "keywords": [
-        "디지털자산"
-      ]
-    },
-    {
       "company": "두나무",
       "category": "디지털 금융",
       "title": "20일부터 코인거래소 대주주도 사전심사… 두나무·네이버 '시험대'",
@@ -1644,6 +1663,17 @@
       "pubDate": "Wed, 19 Aug 2026 05:16:12 GMT",
       "keywords": [
         "디지털자산"
+      ]
+    },
+    {
+      "company": "카카오페이",
+      "category": "디지털 금융",
+      "title": "\"결혼하면 주식준다\" 카카오페이證, 2주 만에 신혼부부 3만명 몰려",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5bjk2cEEyUEExM2JwLWxjemZud2pQNGRsMWxyay1HRVVkSUJpQ0lVYWJOLUNhYTFjMzJwXzJ6R3MtbGtPMXFQWmNOWktaT1lvZzJRSjN0SEI5MTR1ZzZJ0gFkQVVfeXFMUHhkanc3NHppT1Nhdmt2VGlMODNyekJUeW1JeVBhNGhYbHVKZGRxNkl5V2ZLeGhodXRxTV9Bdlg4SW15eGR6UFFxREZ5ODdVVW9pVEhQT2VVLUk0empRRVVzUl9XdA?oc=5",
+      "source": "뉴스1",
+      "pubDate": "Wed, 19 Aug 2026 02:45:59 GMT",
+      "keywords": [
+        "결제·페이"
       ]
     },
     {
@@ -1702,26 +1732,6 @@
       "keywords": [
         "디지털자산"
       ]
-    },
-    {
-      "company": "카카오페이",
-      "category": "디지털 금융",
-      "title": "카카오페이 굿딜, 세븐일레븐으로 편의점 4사 퍼즐 완성",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pQ2gtejZoY3QyUlR4eFNqWS1xbmNBWU9YdjM5cDRWc3RvaHNHaEVBV1R1c0xETVdnaTB4T08zclRqMTYxQlI3V3RXS2R3eVc5c0UyOEl0c1k2SkxDckdQNnVPeDR3aXRqd21RRw?oc=5",
-      "source": "ER 이코노믹리뷰",
-      "pubDate": "Wed, 19 Aug 2026 00:02:43 GMT",
-      "keywords": [
-        "결제·페이"
-      ]
-    },
-    {
-      "company": "NHN",
-      "category": "IT 서비스",
-      "title": "GPU 7656장 가동하는 NHN 팩토리X… 핵심은 전력·수랭 [르포]",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42dkstRDR0OTh4U1JCeUhEQjdpOWJDV3k4U2kydHdIcURWSU02QXBDd2ZsREllUEcxUFFIZ0ZETkFZYzFpMV9KZFl1RWpLal96SjFydExCQjdrWnVDT1dRbl9va0hzMzJHWDVUMGx2Y2jSAXRBVV95cUxQNFFSQkg4b0o0ZmNrVTZIM1ZjWkhKSTZ2U3RRbU5sRGpJSXhqcnhzUGF6QTMyNExteGhyQU94WVM0blJqMTk3ZkpNSXJqRThvUVRFbWZ6MVFGMXJUQlJBVnpjcERjejYyZTdxcHRaN3pFNGRMdQ?oc=5",
-      "source": "IT조선",
-      "pubDate": "Wed, 19 Aug 2026 00:00:00 GMT",
-      "keywords": []
     },
     {
       "company": "삼성SDS",
@@ -1872,17 +1882,6 @@
       "keywords": []
     },
     {
-      "company": "카카오페이",
-      "category": "디지털 금융",
-      "title": "카카오페이손보, 보험금 지급 소요 시간 알려주는 '바로지급' 서비스 개시",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUY1p2UnhzLUFrUHlOY3NDWGhWZ04yb1lfWWVXZHRmenQtNktOc3FxU0JFLW1kZURqT252ang4WVkyNGYta1FKczR0NmRLdEpWcDRhNmt1VUNIdUVDLVdNWtIBZkFVX3lxTE9KSE9TTHVPX3FDNVg4U0pidVBudmd2c0JVTW5vWmUtSl9pNU5qenZ3bTQ1MEhVREhEbXNHZ3ZyeEJPaU5KTUR3SWF3Y3BoTF91TnBhOVUtczFsV0lxRXpnU1B2SWhYUQ?oc=5",
-      "source": "뉴스1",
-      "pubDate": "Tue, 18 Aug 2026 01:23:56 GMT",
-      "keywords": [
-        "결제·페이"
-      ]
-    },
-    {
       "company": "코인원",
       "category": "디지털 금융",
       "title": "코인원, 2026 브랜드 캠페인 시작…'한투 주식연결' 전면에 - 머니투데이",
@@ -1908,7 +1907,7 @@
       "company": "네이버클라우드",
       "category": "IT 서비스",
       "title": "오브젠, 네이버클라우드 플랫폼 마켓플레이스에 'Strategy' 등록…AI 협력 확대",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oTmV5UTRUS2tZQWlCcFRxcS0xNUVrVmtsWW9LSU95SnMzX01vQTk2c25sMTEtZEFWQlVsOHlUNmV5WFFUVkhuYXdBaXVFQklOaHlSRg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE41eW1XMzhxa2x1aTJLLVRqeFQ4eWJjcFJWV1lkZE4xRVh3ZnptMS1laTcwcEJSV2tIenN2VlVBVHFYT3c0Snc?oc=5",
       "source": "v.daum.net",
       "pubDate": "Mon, 17 Aug 2026 23:13:29 GMT",
       "keywords": [
@@ -1929,18 +1928,6 @@
       ]
     },
     {
-      "company": "네이버클라우드",
-      "category": "IT 서비스",
-      "title": "충남대·네이버클라우드, 중부권 AI거점센터 조성…2030년까지 단계적 확대",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lR0NaVHpRVE1fT1pFU1hMRVhsUFdCOS10TUhxbEFTbXJ2cFNLSXItRXNfckZxTEpQa2s1Y1dDa3U5WFlVRDhtS20wM2ZUMG50a2p6VDJFM2FDT3IzdERqOUI0VWZVb2FQbUE?oc=5",
-      "source": "충청매일",
-      "pubDate": "Mon, 17 Aug 2026 05:20:38 GMT",
-      "keywords": [
-        "AI",
-        "클라우드"
-      ]
-    },
-    {
       "company": "코빗",
       "category": "디지털 금융",
       "title": "[핀포인트] [미래에셋증권] 코빗 품어 '디지털X'로…시너지 방안은?",
@@ -1948,18 +1935,6 @@
       "source": "DealSite경제TV",
       "pubDate": "Sun, 16 Aug 2026 22:00:22 GMT",
       "keywords": []
-    },
-    {
-      "company": "삼성SDS",
-      "category": "IT 서비스",
-      "title": "\"AI 큰손 잡아라\"…정부 수주전에 네이버클라우드·삼성SDS 격돌",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Qb2FobExVUHBIVGJkSWRVeGRXSFA0a0E0NjhfMGZlbVNjX1RfMXh4WVFsYk12aDFtU1RlQXBQWGltVmdBMm1EWHBJNUtMeFFpTmhzX1dma0JxcDRsTHZ6ctIBeEFVX3lxTE9IdVNsS3BhWHpzamlka3B2UkhRRmwzaDZXMGZzLVV2dk9fR3o3RVM2QTdnS0lOVlFLYXVpWWVNZ3l4Z2JkWWxTTTR2WERQQ0daZkdKUlFjOVBYNDVLNmJrTHhlZ0IwdDFLY2hqYTFPeC1wTExZUUpMOA?oc=5",
-      "source": "뉴시스",
-      "pubDate": "Sat, 15 Aug 2026 02:00:00 GMT",
-      "keywords": [
-        "AI",
-        "클라우드"
-      ]
     },
     {
       "company": "고팍스",
@@ -2066,6 +2041,17 @@
       ]
     },
     {
+      "company": "빗썸코리아",
+      "category": "디지털 금융",
+      "title": "빗썸, 코인 출금 장시간 지연…“핫월렛 잔고 부족”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhejdNemRyanBWMGJDQldrS183WXFvWjIzODZMd1ZRVnhnZlNPaWw2X2NsZ2toLUV1S1RVbldwNG1Qd0huZ1YtNkRMU1lNOEJ5cjVWeEtVSE9nLUU?oc=5",
+      "source": "KBS 뉴스",
+      "pubDate": "Wed, 12 Aug 2026 06:10:00 GMT",
+      "keywords": [
+        "디지털자산"
+      ]
+    },
+    {
       "company": "삼성SDS",
       "category": "IT 서비스",
       "title": "삼성SDS, 국가 AI 연구에 최신 GPU 자원 공급",
@@ -2108,14 +2094,15 @@
       ]
     },
     {
-      "company": "네이버파이낸셜",
-      "category": "디지털 금융",
-      "title": "특금법 대주주 규제 완화…네이버파이낸셜·두나무 빅딜 탄력 받나 By 알파경제 alphabiz",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YMml4U2gxbWlEVmpxNWpDVEJ1QVFNSm43VlJlTGxmMzZCelFwNjNqV1pvaTlrRVhsUWg4WXpMX3JtazgwWkxZOU4wcHZ4VVBGR2lOWS1vZnliVDJCTjc2NWlIMXlndUt1NjI0d0JILTg?oc=5",
-      "source": "Investing.com 한국어",
-      "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT",
+      "company": "삼성SDS",
+      "category": "IT 서비스",
+      "title": "SKT-삼성SDS-LG CNS, 차세대 먹거리 ‘피지컬 AI’ 투자 강화",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaWk56bmFFTFZQTDl2cEZPSUdma044UjJuRHNjX1N6ZnYtN0RaR2R3Ql9lMVhEa3lrZFQ3a2pyLUg5Mi14YTZiWFpWMmN3ZVhSZ1VfWU5nVjhtdw?oc=5",
+      "source": "브릿지경제",
+      "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
       "keywords": [
-        "규제·정책"
+        "AI",
+        "투자·인수"
       ]
     },
     {
@@ -2148,15 +2135,6 @@
       "keywords": [
         "파트너십·제휴"
       ]
-    },
-    {
-      "company": "고팍스",
-      "category": "디지털 금융",
-      "title": "수장 교체한 고팍스… 경영 정상화 속도 낸다",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82VW5IcXY4WDRvaWpyTEhaZUdCUU1zdUw3d2N2TnFFZlJGYlJjOS1RVnZDTjBTY1M0Y1Z3bjJQVVdTa2tuWmJqOGtQUVJlNEZES3NtYzlzZzNuRFBfVkJVclhFOS1Ma0RkVFFwRnVB?oc=5",
-      "source": "아시아투데이",
-      "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT",
-      "keywords": []
     },
     {
       "company": "고팍스",
@@ -2201,9 +2179,9 @@
     {
       "company": "고팍스",
       "category": "디지털 금융",
-      "title": "고팍스, AWS 출신 김나영 신임 대표 선임…“고파이 상환 최우선”",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByVncyZnZWM2VXTmVWU0d1c1YwckVkR0RFakN2c1U3NUxvem96UjlOcFp1c3FIejY3T2VOZUtLY2d1X1BVdXlTYUU2T2NyY0o4N3c?oc=5",
-      "source": "매일경제 마켓",
+      "title": "고팍스, AWS코리아 출신 김나영 신임 대표 선임",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZUXFCWG5kZTRDTGRWN2tSMEFmVjdZV2dTREF6d0hja2pJZXFITlNJNkM5UXdJZi1jTXIxeTlwN3ViallUalI0WHM3dlRrZw?oc=5",
+      "source": "전자신문",
       "pubDate": "Mon, 27 Jul 2026 07:00:00 GMT",
       "keywords": []
     },
@@ -2226,6 +2204,17 @@
       "source": "마켓인",
       "pubDate": "Mon, 27 Jul 2026 07:00:00 GMT",
       "keywords": []
+    },
+    {
+      "company": "고팍스",
+      "category": "디지털 금융",
+      "title": "가상자산거래소 고팍스, 김나영 신임대표 선임",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mY01Rc0hZMjEwQWVVbUlleTBvM2RXUE5Tcm5lcnNJd0hSTHgzRk5hTGlmc3VwYXNvdV9xNXZnUjdMSnZRUWlYRGVtdDRCb2VyV2tGTFNZblFMY05s?oc=5",
+      "source": "뉴스핌",
+      "pubDate": "Mon, 27 Jul 2026 07:00:00 GMT",
+      "keywords": [
+        "디지털자산"
+      ]
     },
     {
       "company": "삼성SDS",
@@ -2272,20 +2261,20 @@
       ]
     },
     {
-      "company": "SK AX",
-      "category": "IT 서비스",
-      "title": "SKT '독파모'에 SK AX·테크로매트릭스 합류",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44empjVU9lVVN3LV9GTDk1U3NoS3Njc0psTlNNNFdYSjVNVmtNWTNSbkZET1JtQTEyNGtVSjhuQTVNV3BITzVwS0d6dnpUWlIxWDcyZEZGOG9JSEI1dVpPa085akJ1dw?oc=5",
-      "source": "디일렉",
-      "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+      "company": "네이버파이낸셜",
+      "category": "디지털 금융",
+      "title": "네이버파이낸셜-두나무 빅딜 '청신호'",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FYzQ0OHZEQXFrZHpMcldwc0ZNM3k4ajE3S0QzRlNwVS1ZUHdOSjg4ckMtS0RveVUtdFlUdUE4RU1TLWlWY2hjUGlBQUNVTldoMHViSE11YnJzQQ?oc=5",
+      "source": "한국경제",
+      "pubDate": "Fri, 24 Jul 2026 07:00:00 GMT",
       "keywords": []
     },
     {
       "company": "SK AX",
       "category": "IT 서비스",
-      "title": "SKT, 독파모 정예팀에 SK AX·테크노매트릭스 신규 합류",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42SXEycUZmeVFaMTIyUDVSeUpieW1YZ2d5ZF9mMk1NVWxzQ2R3VEJUQUM1amk0WVpyMFNSTDZ2Vno4M3FmZHVaREd6Zy1iY2pmbFNMeGx6QTNnLXJFRVdxa0hnX3Y1RlhsZVE?oc=5",
-      "source": "AI타임스",
+      "title": "SKT '독파모'에 SK AX·테크로매트릭스 합류",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44empjVU9lVVN3LV9GTDk1U3NoS3Njc0psTlNNNFdYSjVNVmtNWTNSbkZET1JtQTEyNGtVSjhuQTVNV3BITzVwS0d6dnpUWlIxWDcyZEZGOG9JSEI1dVpPa085akJ1dw?oc=5",
+      "source": "디일렉",
       "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
       "keywords": []
     },
@@ -2340,15 +2329,6 @@
     {
       "company": "한글과컴퓨터",
       "category": "IT 서비스",
-      "title": "판교 대표 IT기업 '한글과컴퓨터' 36년만에 역사속으로…",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE95UzBrcUNqYmRPckdXOW16aXBRcU5aS2JidWJySUlNM0xWWVZQTlBRbTN3M1BzZ2dWSmttZ0k0UkRLNkE?oc=5",
-      "source": "성남일보",
-      "pubDate": "Fri, 03 Jul 2026 07:00:00 GMT",
-      "keywords": []
-    },
-    {
-      "company": "한글과컴퓨터",
-      "category": "IT 서비스",
       "title": "‘한글과컴퓨터’ 역사 속으로…에이전틱 OS 기업 ‘한컴’으로 새출발",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8wb3JHa2pzcWQyLU5PaF9OWVhwMENVWGdPQm8yR282VlNLLVdNd1FvVkJHcGF0cXFqYUhsaUpHQ3EyUWRUYmpNOWpydW9SQQ?oc=5",
       "source": "바이라인네트워크",
@@ -2383,6 +2363,17 @@
       "title": "SK AX, AI가 기업성장 이끄는 '에이전틱 엔터프라이즈' 시대 연다",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE85ZzgyTTBCUjJEdXRQN1llTEZjM3M0amVJM3A3Zk9SYVJMcG9sOHhURmFwVmVfWExHR1NadFNia21ZMFVWR0xJQ0JvOUs2UQ?oc=5",
       "source": "전자신문",
+      "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "company": "SK AX",
+      "category": "IT 서비스",
+      "title": "SK AX, AI가 기업성장 이끄는 ‘에이전틱 엔터프라이즈’ 발표",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yS2ZMQTV2VTFBOHFjYl8yMkp5NUNnbmpOUFhkSks1MVNyZFF2Q0RKREYtNGg2eDI5MEw2SHRXbmU2RzF4cFlKcXhCUDMtWjJzZTMzeVh3OV9BOFY4SVZsX0hsSzVEQQ?oc=5",
+      "source": "디일렉",
       "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
       "keywords": [
         "AI"
@@ -2491,6 +2482,18 @@
       "source": "NAVERCorp.",
       "pubDate": "Mon, 30 Mar 2026 07:00:00 GMT",
       "keywords": []
+    },
+    {
+      "company": "한글과컴퓨터",
+      "category": "IT 서비스",
+      "title": "한글과컴퓨터, AI 기술 해외 첫 수주…글로벌 시장 정조준",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IbG9RYTZ3UGg4aDRGaU1vQkFTQ2NwcktNZmVTMGZ1UTQ5VmFlNXN3alhrdzE3bVhpMmlRQ05TVWN3clNfZ3VsaTZPUHdBdEhY?oc=5",
+      "source": "톱데일리",
+      "pubDate": "Thu, 19 Feb 2026 08:00:00 GMT",
+      "keywords": [
+        "AI",
+        "글로벌·해외"
+      ]
     }
   ]
 }
